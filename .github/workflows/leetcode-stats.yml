@@ -2,8 +2,8 @@ name: Update LeetCode Stats SVG
 
 on:
   schedule:
-    - cron: '0 0 * * *' # Tự động chạy hàng ngày
-  workflow_dispatch: # Cho phép bấm chạy thủ công
+    - cron: '0 0 * * *'
+  workflow_dispatch:
 
 jobs:
   run-bot:
@@ -11,11 +11,13 @@ jobs:
     steps:
       - name: Checkout Repository
         uses: actions/checkout@v3
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }} # Cấp token xác thực quyền push code
 
       - name: Set up Python
         uses: actions/setup-python@v4
         with:
-          python-with-version: '3.x'
+          python-version: '3.x' # Đã sửa lại cú pháp chuẩn của tham số này
 
       - name: Install Dependencies
         run: pip install requests
@@ -29,4 +31,4 @@ jobs:
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git add leetcode_stats.svg
           git diff-index --quiet HEAD || git commit -m "🤖 [Bot] Tự động cập nhật đồ thị LeetCode"
-          git push
+          git push origin main
