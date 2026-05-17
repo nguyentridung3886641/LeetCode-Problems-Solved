@@ -1,42 +1,75 @@
 import os
+import shutil
 
-# 1. Định nghĩa hằng số tổng số bài trên LeetCode tính đến thời điểm hiện tại
 TOTAL_EASY = 944
 TOTAL_MEDIUM = 2056
 TOTAL_HARD = 934
 
+# Thư mục gốc nơi các Extension LeetCode tự động đồng bộ file về
+SYNC_FOLDER = "LeetCode_Submissions" 
+
+def auto_sort_files():
+    """
+    Thuật toán tự động đọc file mới đồng bộ, phân tích độ khó 
+    và di chuyển vào đúng thư mục Easy/Medium/Hard tương ứng.
+    """
+    if not os.path.exists(SYNC_FOLDER):
+        return
+
+    # Tạo các thư mục đích nếu chưa có
+    for folder in ["Easy", "Medium", "Hard"]:
+        if not os.path.exists(folder):
+            os.makedirs(folder)
+
+    # Quét qua từng file bài giải vừa được LeetCode sync về
+    for filename in os.listdir(SYNC_FOLDER):
+        if filename.endswith(".java"):
+            file_path = os.path.join(SYNC_FOLDER, filename)
+            
+            # Đọc nội dung file để kiểm tra nhãn độ khó do Extension ghi lại
+            try:
+                with open(file_path, "r", encoding="utf-8") as f:
+                    content = f.read().lower()
+                
+                # Phân tích từ khóa độ khó trong file comment
+                if "easy" in content:
+                    dest_folder = "Easy"
+                elif "medium" in content:
+                    dest_folder = "Medium"
+                elif "hard" in content:
+                    dest_folder = "Hard"
+                else:
+                    continue # Bỏ qua nếu không xác định được độ khó
+
+                # Di chuyển file sang thư mục phân loại tương ứng
+                shutil.move(file_path, os.path.join(dest_folder, filename))
+                print(f"🤖 [Bot] Đã phân loại file {filename} vào thư mục {dest_folder}")
+            except Exception as e:
+                print(f"Lỗi khi đọc file {filename}: {e}")
+
 def count_files(folder_name):
-    """
-    Thuật toán kiểm tra và đếm các file .java trong thư mục cục bộ
-    """
-    # Bắt lỗi nếu thư mục chưa được tạo trên Git
     if not os.path.exists(folder_name):
         return 0
-    
-    # Lấy danh sách tất cả các file trong thư mục
     all_files = os.listdir(folder_name)
-    
-    # Lọc và chỉ đếm các file có đuôi mở rộng là .java
-    java_files = [f for f in all_files if f.endswith('.java')]
-    
-    return len(java_files)
+    return len([f for f in all_files if f.endswith('.java')])
 
 try:
-    # 2. Thực hiện đếm số lượng bài giải thực tế trong các thư mục local
-    # (Hãy đảm bảo bạn đặt tên thư mục trên GitHub viết hoa chữ cái đầu y chang thế này)
+    # Bước 1: Kích hoạt bot tự động dọn dẹp và phân loại file trước
+    auto_sort_files()
+
+    # Bước 2: Đếm số lượng file sau khi đã được phân loại chuẩn chỉnh
     solved_easy = count_files("Easy")
     solved_medium = count_files("Medium")
     solved_hard = count_files("Hard")
     solved_all = solved_easy + solved_medium + solved_hard
     total_all = TOTAL_EASY + TOTAL_MEDIUM + TOTAL_HARD
 
-    # 3. Tính toán phần trăm và định dạng chính xác 1 chữ số thập phân
+    # Bước 3: Tính toán phần trăm
     pct_easy = f"{(solved_easy / TOTAL_EASY) * 100:.1f}"
     pct_medium = f"{(solved_medium / TOTAL_MEDIUM) * 100:.1f}"
     pct_hard = f"{(solved_hard / TOTAL_HARD) * 100:.1f}"
 
-    # 4. Thuật toán tạo chuỗi văn bản Markdown hoàn chỉnh cho README.md
-    # Sử dụng đúng tham số ?width=400 và cấu hình màu ép buộc chuẩn LeetCode
+    # Bước 4: Tạo giao diện cấu trúc README.md hoàn mỹ với GEPS chuẩn kích thước
     readme_content = f"""# 🏆 Hành trình chinh phục 4000 bài LeetCode
 
 Chào mừng đến với không gian lưu trữ lời giải thuật toán của tôi! Hệ thống tự động đồng bộ từ LeetCode sang GitHub.
@@ -62,13 +95,12 @@ Chào mừng đến với không gian lưu trữ lời giải thuật toán củ
   <img src="https://geps.dev/progress/{pct_hard}?width=400&dangerColor=ef4444&warningColor=ef4444&successColor=ef4444" alt="Hard Progress" />
 
 ---
-_Bảng tiến độ hiển thị chi tiết số bài giải thực tế trên hệ thống và được cập nhật tự động mỗi khi có bài mới được đẩy lên._
+_Bảng tiến độ hiển thị chi tiết số bài giải thực tế trên hệ thống và được cập nhật tự động bằng sự kiện Push._
 """
 
-    # Ghi đè toàn bộ nội dung mới vào file README.md
     with open("README.md", "w", encoding="utf-8") as f:
         f.write(readme_content)
-    print("🤖 [Success] Đã tính toán lại tiến độ và cập nhật file README.md thành công!")
+    print("🤖 [Success] Hệ thống tự động phân loại và cập nhật tiến độ hoàn tất!")
 
 except Exception as e:
-    print(f"❌ [Error] Hệ thống gặp lỗi khi xử lý hệ tống file: {e}")
+    print(f"❌ [Error] Lỗi hệ thống: {e}")
