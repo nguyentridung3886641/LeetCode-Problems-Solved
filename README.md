@@ -12,15 +12,15 @@ Chào mừng đến với không gian lưu trữ lời giải thuật toán củ
 
 * **🟢 Easy:** `57 / 944`
   <br>
-  <img src="https://geps.dev/progress/6.0?dangerColor=22c55e&warningColor=22c55e&successColor=22c55e" alt="Easy Progress" width="400" height="24" />
+  <img src="https://geps.dev/progress/6.0?width=400&dangerColor=22c55e&warningColor=22c55e&successColor=22c55e" alt="Easy Progress" />
 
 * **🟡 Medium:** `32 / 2056`
   <br>
-  <img src="https://geps.dev/progress/1.5?dangerColor=eab308&warningColor=eab308&successColor=eab308" alt="Medium Progress" width="400" height="24" />
+  <img src="https://geps.dev/progress/1.5?width=400&dangerColor=eab308&warningColor=eab308&successColor=eab308" alt="Medium Progress" />
 
 * **🔴 Hard:** `0 / 934`
   <br>
-  <img src="https://geps.dev/progress/0.0?dangerColor=ef4444&warningColor=ef4444&successColor=ef4444" alt="Hard Progress" width="400" height="24" />
+  <img src="https://geps.dev/progress/0.0?width=400&dangerColor=ef4444&warningColor=ef4444&successColor=ef4444" alt="Hard Progress" />
 
 ---
 _Bảng tiến độ hiển thị chi tiết số bài giải thực tế trên hệ thống và được cập nhật thủ công để đảm bảo tính ổn định tuyệt đối._
