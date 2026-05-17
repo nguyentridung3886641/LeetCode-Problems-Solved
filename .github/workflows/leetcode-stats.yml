@@ -1,19 +1,11 @@
-name: Update LeetCode Stats
+# 🏆 Hành trình chinh phục 4000 bài LeetCode
 
-on:
-  schedule:
-    - cron: '0 0 * * *'
-  workflow_dispatch:
+Chào mừng đến với không gian lưu trữ lời giải thuật toán của tôi! Hệ thống tự động đồng bộ từ LeetCode sang GitHub.
 
-jobs:
-  update-readme:
-    runs-on: ubuntu-latest
-    steps:
-      - name: Checkout Repository
-        uses: actions/checkout@v3
+## 📊 Thống kê tiến độ LeetCode
 
-      - name: Update LeetCode Stats Badge
-        uses: denalhb/leetcode-badge-action@v1.2
-        with:
-          username: nguyentridung3886641
-          filename: README.md
+<p align="center">
+  <img src="https://leetcode-stats-six.vercel.app/api?username=nguyentridung3886641&theme=dark" alt="LeetCode Stats" />
+</p>
+
+_Biểu đồ tiến độ phía trên sẽ được tự động cập nhật liên tục theo tài khoản LeetCode._
