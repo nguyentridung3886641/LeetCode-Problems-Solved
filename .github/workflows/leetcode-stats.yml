@@ -1,0 +1,31 @@
+name: Update LeetCode Stats SVG
+
+on:
+  push:
+    branches:
+      - main # Kích hoạt bot ngay lập tức khi có bài mới được đẩy vào nhánh main
+  workflow_dispatch: # Cho phép bấm nút chạy thủ công nếu muốn
+
+permissions:
+  contents: write # Cấp quyền tối cao cho bot được phép sửa và commit file README.md
+
+jobs:
+  run-bot:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.x'
+
+      - name: Run Script Python To Update Data
+        run: python update_stats.py
+
+      - name: Auto Commit File README
+        uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: "🤖 [Bot] Tự động cập nhật thanh tiến độ LeetCode theo bài giải mới"
+          file_pattern: 'README.md' # Chỉ commit duy nhất sự thay đổi của file README.md
