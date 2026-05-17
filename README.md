@@ -5,22 +5,22 @@ Chào mừng đến với không gian lưu trữ lời giải thuật toán củ
 ## 📊 Thống kê tiến độ LeetCode
 
 <p align="center">
-  <img src="https://img.shields.io/badge/LeetCode-89_/_3934_Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode Total" />
+  <img src="https://img.shields.io/badge/LeetCode-0_/_3934_Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode Total" />
 </p>
 
 ### 📈 Chi tiết các mức độ:
 
-* **🟢 Easy:** `57 / 944`
+* **🟢 Easy:** `0 / 944`
   <br>
-  <img src="https://geps.dev/progress/6.0?width=400&dangerColor=22c55e&warningColor=22c55e&successColor=22c55e" alt="Easy Progress" />
+  <img src="https://geps.dev/progress/0.0?width=400&dangerColor=22c55e&warningColor=22c55e&successColor=22c55e" alt="Easy Progress" />
 
-* **🟡 Medium:** `32 / 2056`
+* **🟡 Medium:** `0 / 2056`
   <br>
-  <img src="https://geps.dev/progress/1.5?width=400&dangerColor=eab308&warningColor=eab308&successColor=eab308" alt="Medium Progress" />
+  <img src="https://geps.dev/progress/0.0?width=400&dangerColor=eab308&warningColor=eab308&successColor=eab308" alt="Medium Progress" />
 
 * **🔴 Hard:** `0 / 934`
   <br>
   <img src="https://geps.dev/progress/0.0?width=400&dangerColor=ef4444&warningColor=ef4444&successColor=ef4444" alt="Hard Progress" />
 
 ---
-_Bảng tiến độ hiển thị chi tiết số bài giải thực tế trên hệ thống và được cập nhật thủ công để đảm bảo tính ổn định tuyệt đối._
+_Bảng tiến độ hiển thị chi tiết số bài giải thực tế trên hệ thống và được cập nhật tự động mỗi khi có bài mới được đẩy lên._
