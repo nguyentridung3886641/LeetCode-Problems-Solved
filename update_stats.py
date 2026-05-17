@@ -10,7 +10,7 @@ TOTAL_MEDIUM = 2056
 TOTAL_HARD = 934
 
 # Danh sách các thư mục hệ thống bắt buộc phải bỏ qua, không quét phân loại
-IGNORE_FOLDERS = ['.git', '.github', 'Easy', 'Medium', 'Hard']
+IGNORE_FOLDERS = ['.git', '.github', 'Easy', 'Medium', 'Hard', 'stats.json']
 
 
 # ==============================================================================
