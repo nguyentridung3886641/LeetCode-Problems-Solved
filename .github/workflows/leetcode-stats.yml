@@ -2,9 +2,8 @@ name: Update LeetCode Stats
 
 on:
   schedule:
-    # Tự động chạy vào lúc 00:00 mỗi ngày (giờ UTC, khoảng 7h sáng giờ VN)
     - cron: '0 0 * * *'
-  workflow_dispatch: # Cho phép bạn bấm nút chạy thủ công bất cứ lúc nào
+  workflow_dispatch:
 
 jobs:
   update-readme:
@@ -14,7 +13,7 @@ jobs:
         uses: actions/checkout@v3
 
       - name: Update LeetCode Stats Badge
-        uses: joshcai/leetcode-stats-action@v2
+        uses: swapna-6/leetcode-stats-action@v1.0.1
         with:
           username: nguyentridung3886641
           filename: README.md
