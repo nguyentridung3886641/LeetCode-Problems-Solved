@@ -10,9 +10,9 @@ Chào mừng đến với không gian lưu trữ lời giải thuật toán củ
 
 ### 📈 Chi tiết các mức độ:
 
-* **🟢 Easy:** &nbsp;&nbsp;&nbsp;&nbsp; `57 / 944` &nbsp;&nbsp; <img src="https://img.shields.io/badge/Progress-6.0%25-22c55e?style=for-the-badge&labelColor=2c2c2c" alt="Easy Progress" height="20" />
-* **🟡 Medium:** `32 / 2056` &nbsp; <img src="https://img.shields.io/badge/Progress-1.5%25-eab308?style=for-the-badge&labelColor=2c2c2c" alt="Medium Progress" height="20" />
-* **🔴 Hard:** &nbsp;&nbsp;&nbsp; `0 / 934` &nbsp;&nbsp;&nbsp; <img src="https://img.shields.io/badge/Progress-0.0%25-ef4444?style=for-the-badge&labelColor=2c2c2c" alt="Hard Progress" height="20" />
+* **🟢 Easy:** &nbsp;&nbsp;&nbsp;&nbsp; `57 / 944` &nbsp;&nbsp; ![](https://geps.dev/progress/6.0)
+* **🟡 Medium:** `32 / 2056` &nbsp; ![](https://geps.dev/progress/1.5)
+* **🔴 Hard:** &nbsp;&nbsp;&nbsp; `0 / 934` &nbsp;&nbsp;&nbsp; ![](https://geps.dev/progress/0.0)
 
 ---
 _Bảng tiến độ hiển thị chi tiết số bài giải thực tế trên hệ thống và được cập nhật thủ công để đảm bảo tính ổn định tuyệt đối._
