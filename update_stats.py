@@ -1,75 +1,81 @@
 import os
 import shutil
 
+# Định nghĩa hằng số tổng số bài trên LeetCode toàn cầu
 TOTAL_EASY = 944
 TOTAL_MEDIUM = 2056
 TOTAL_HARD = 934
 
-# Thư mục gốc nơi các Extension LeetCode tự động đồng bộ file về
-SYNC_FOLDER = "LeetCode_Submissions" 
+# Danh sách các thư mục hệ thống cần bỏ qua, không quét phân loại
+IGNORE_FOLDERS = ['.git', '.github', 'Easy', 'Medium', 'Hard']
 
-def auto_sort_files():
+def auto_classify_leethub_submissions():
     """
-    Thuật toán tự động đọc file mới đồng bộ, phân tích độ khó 
-    và di chuyển vào đúng thư mục Easy/Medium/Hard tương ứng.
+    Thuật toán quét các thư mục bài toán do LeetHub tạo ra ở thư mục gốc,
+    đọc độ khó từ file README.md nội bộ và phân loại về đúng vị trí.
     """
-    if not os.path.exists(SYNC_FOLDER):
-        return
-
-    # Tạo các thư mục đích nếu chưa có
+    # Đảm bảo các thư mục cốt lõi luôn tồn tại
     for folder in ["Easy", "Medium", "Hard"]:
         if not os.path.exists(folder):
             os.makedirs(folder)
-
-    # Quét qua từng file bài giải vừa được LeetCode sync về
-    for filename in os.listdir(SYNC_FOLDER):
-        if filename.endswith(".java"):
-            file_path = os.path.join(SYNC_FOLDER, filename)
             
-            # Đọc nội dung file để kiểm tra nhãn độ khó do Extension ghi lại
-            try:
-                with open(file_path, "r", encoding="utf-8") as f:
-                    content = f.read().lower()
-                
-                # Phân tích từ khóa độ khó trong file comment
-                if "easy" in content:
-                    dest_folder = "Easy"
-                elif "medium" in content:
-                    dest_folder = "Medium"
-                elif "hard" in content:
-                    dest_folder = "Hard"
-                else:
-                    continue # Bỏ qua nếu không xác định được độ khó
+    # Lấy danh sách các thực thể ở thư mục gốc
+    for item in os.listdir('.'):
+        # Chỉ xử lý nếu nó là thư mục bài tập và không nằm trong danh sách loại trừ
+        if os.path.isdir(item) and item not in IGNORE_FOLDERS:
+            readme_path = os.path.join(item, "README.md")
+            
+            # Kiểm tra xem thư mục bài tập này có chứa file README.md do LeetHub sinh ra không
+            if os.path.exists(readme_path):
+                try:
+                    with open(readme_path, "r", encoding="utf-8") as f:
+                        content = f.read().lower()
+                    
+                    # Xác định nhãn độ khó được LeetHub ghi trong README
+                    if "easy" in content:
+                        dest_folder = "Easy"
+                    elif "medium" in content:
+                        dest_folder = "Medium"
+                    elif "hard" in content:
+                        dest_folder = "Hard"
+                    else:
+                        continue # Không tìm thấy nhãn độ khó thì bỏ qua
+                    
+                    # Di chuyển toàn bộ thư mục bài tập vào thư mục độ khó tương ứng
+                    shutil.move(item, os.path.join(dest_folder, item))
+                    print(f"🤖 [Bot] Đã phân loại thành công bài [{item}] vào ngăn {dest_folder}")
+                    
+                except Exception as e:
+                    print(f"Lỗi khi phân loại thư mục {item}: {e}")
 
-                # Di chuyển file sang thư mục phân loại tương ứng
-                shutil.move(file_path, os.path.join(dest_folder, filename))
-                print(f"🤖 [Bot] Đã phân loại file {filename} vào thư mục {dest_folder}")
-            except Exception as e:
-                print(f"Lỗi khi đọc file {filename}: {e}")
-
-def count_files(folder_name):
+def count_solved_problems(folder_name):
+    """
+    Đếm số lượng thư mục bài toán đã được phân loại bên trong Easy/Medium/Hard
+    """
     if not os.path.exists(folder_name):
         return 0
-    all_files = os.listdir(folder_name)
-    return len([f for f in all_files if f.endswith('.java')])
+    # Mỗi thư mục con đại diện cho 1 bài toán đã giải
+    subfolders = [f for f in os.listdir(folder_name) if os.path.isdir(os.path.join(folder_name, f))]
+    return len(subfolders)
 
 try:
-    # Bước 1: Kích hoạt bot tự động dọn dẹp và phân loại file trước
-    auto_sort_files()
+    # Bước 1: Kích hoạt hệ thống tự động quét và thu dọn phân loại file
+    auto_classify_leethub_submissions()
 
-    # Bước 2: Đếm số lượng file sau khi đã được phân loại chuẩn chỉnh
-    solved_easy = count_files("Easy")
-    solved_medium = count_files("Medium")
-    solved_hard = count_files("Hard")
+    # Bước 2: Đếm số lượng bài thực tế sau phân loại
+    solved_easy = count_solved_problems("Easy")
+    solved_medium = count_solved_problems("Medium")
+    solved_hard = count_solved_problems("Hard")
+    
     solved_all = solved_easy + solved_medium + solved_hard
     total_all = TOTAL_EASY + TOTAL_MEDIUM + TOTAL_HARD
 
-    # Bước 3: Tính toán phần trăm
+    # Bước 3: Tính toán phần trăm chính xác (Format 1 chữ số thập phân)
     pct_easy = f"{(solved_easy / TOTAL_EASY) * 100:.1f}"
     pct_medium = f"{(solved_medium / TOTAL_MEDIUM) * 100:.1f}"
     pct_hard = f"{(solved_hard / TOTAL_HARD) * 100:.1f}"
 
-    # Bước 4: Tạo giao diện cấu trúc README.md hoàn mỹ với GEPS chuẩn kích thước
+    # Bước 4: Tạo cấu trúc file README.md mới với thanh GEPS tùy biến màu sắc cố định
     readme_content = f"""# 🏆 Hành trình chinh phục 4000 bài LeetCode
 
 Chào mừng đến với không gian lưu trữ lời giải thuật toán của tôi! Hệ thống tự động đồng bộ từ LeetCode sang GitHub.
@@ -100,7 +106,7 @@ _Bảng tiến độ hiển thị chi tiết số bài giải thực tế trên 
 
     with open("README.md", "w", encoding="utf-8") as f:
         f.write(readme_content)
-    print("🤖 [Success] Hệ thống tự động phân loại và cập nhật tiến độ hoàn tất!")
+    print("🤖 [Success] Đã đồng bộ cấu trúc LeetHub và cập nhật Dashboard thành công!")
 
 except Exception as e:
-    print(f"❌ [Error] Lỗi hệ thống: {e}")
+    print(f"❌ [Error] Hệ thống trục trặc: {e}")
