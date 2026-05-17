@@ -23,4 +23,4 @@ Chào mừng đến với không gian lưu trữ lời giải thuật toán củ
   <img src="https://geps.dev/progress/0.0?width=400&dangerColor=ef4444&warningColor=ef4444&successColor=ef4444" alt="Hard Progress" />
 
 ---
-_Bảng tiến độ hiển thị chi tiết số bài giải thực tế trên hệ thống và được cập nhật tự động mỗi khi có bài mới được đẩy lên._
+_Bảng tiến độ hiển thị chi tiết số bài giải thực tế trên hệ thống và được cập nhật tự động bằng sự kiện Push._
