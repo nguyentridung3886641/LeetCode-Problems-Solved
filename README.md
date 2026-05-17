@@ -4,6 +4,6 @@ Chào mừng đến với không gian lưu trữ lời giải thuật toán củ
 
 ## 📊 Thống kê tiến độ LeetCode
 
-![LeetCode Stats](https://leetcode-stats-six.vercel.app/api?username=nguyentridung3886641&theme=dark)
+![LeetCode Stats](https://leetcode-stats-api.herokuapp.com/?username=nguyentridung3886641)
 
 _Biểu đồ tiến độ phía trên sẽ được tự động cập nhật liên tục theo tài khoản LeetCode._
