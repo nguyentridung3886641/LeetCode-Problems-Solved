@@ -1,11 +1,32 @@
-# 🏆 Hành trình chinh phục 4000 bài LeetCode
+name: Update LeetCode Stats SVG
 
-Chào mừng đến với không gian lưu trữ lời giải thuật toán của tôi! Hệ thống tự động đồng bộ từ LeetCode sang GitHub.
+on:
+  schedule:
+    - cron: '0 0 * * *' # Tự động chạy hàng ngày
+  workflow_dispatch: # Cho phép bấm chạy thủ công
 
-## 📊 Thống kê tiến độ LeetCode
+jobs:
+  run-bot:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v3
 
-<p align="center">
-  <img src="https://leetcode-stats-six.vercel.app/api?username=nguyentridung3886641&theme=dark" alt="LeetCode Stats" />
-</p>
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-with-version: '3.x'
 
-_Biểu đồ tiến độ phía trên sẽ được tự động cập nhật liên tục theo tài khoản LeetCode._
+      - name: Install Dependencies
+        run: pip install requests
+
+      - name: Run Script Python To Render SVG
+        run: python update_stats.py
+
+      - name: Auto Commit and Push File SVG
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add leetcode_stats.svg
+          git diff-index --quiet HEAD || git commit -m "🤖 [Bot] Tự động cập nhật đồ thị LeetCode"
+          git push
