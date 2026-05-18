@@ -52,4 +52,12 @@ _Bảng tiến độ hiển thị chi tiết số bài giải thực tế trên 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0509-fibonacci-number) |
+## String
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0796-rotate-string) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
