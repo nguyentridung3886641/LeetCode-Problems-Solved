@@ -34,6 +34,7 @@ _Bảng tiến độ hiển thị chi tiết số bài giải thực tế trên 
 ## Array
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0035-search-insert-position) |
 | [0704-binary-search](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0704-binary-search) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/2161-partition-array-according-to-given-pivot) |
@@ -48,6 +49,7 @@ _Bảng tiến độ hiển thị chi tiết số bài giải thực tế trên 
 ## Binary Search
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0035-search-insert-position) |
 | [0374-guess-number-higher-or-lower](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0374-guess-number-higher-or-lower) |
 | [0704-binary-search](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0704-binary-search) |
