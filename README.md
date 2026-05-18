@@ -30,6 +30,7 @@ _Bảng tiến độ hiển thị chi tiết số bài giải thực tế trên 
 ## Array
 |  |
 | ------- |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0485-max-consecutive-ones) |
 | [0645-set-mismatch](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0645-set-mismatch) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -37,6 +38,7 @@ _Bảng tiến độ hiển thị chi tiết số bài giải thực tế trên 
 ## Hash Table
 |  |
 | ------- |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0645-set-mismatch](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0645-set-mismatch) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Bit Manipulation
