@@ -30,6 +30,7 @@ _Bảng tiến độ hiển thị chi tiết số bài giải thực tế trên 
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0014-longest-common-prefix) |
 | [1441-build-an-array-with-stack-operations](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/1441-build-an-array-with-stack-operations) |
 ## Stack
 |  |
@@ -48,6 +49,7 @@ _Bảng tiến độ hiển thị chi tiết số bài giải thực tế trên 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0014-longest-common-prefix) |
 | [0067-add-binary](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0067-add-binary) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0438-find-all-anagrams-in-a-string) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/1071-greatest-common-divisor-of-strings) |
@@ -76,4 +78,8 @@ _Bảng tiến độ hiển thị chi tiết số bài giải thực tế trên 
 |  |
 | ------- |
 | [0147-insertion-sort-list](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0147-insertion-sort-list) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
