@@ -32,11 +32,13 @@ _Bảng tiến độ hiển thị chi tiết số bài giải thực tế trên 
 | ------- |
 | [0485-max-consecutive-ones](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0485-max-consecutive-ones) |
 | [0645-set-mismatch](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0645-set-mismatch) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1470-shuffle-the-array](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/1470-shuffle-the-array) |
 ## Hash Table
 |  |
 | ------- |
 | [0645-set-mismatch](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0645-set-mismatch) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -45,4 +47,9 @@ _Bảng tiến độ hiển thị chi tiết số bài giải thực tế trên 
 |  |
 | ------- |
 | [0645-set-mismatch](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0645-set-mismatch) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+## Counting Sort
+|  |
+| ------- |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 <!---LeetCode Topics End-->
