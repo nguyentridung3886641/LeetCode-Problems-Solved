@@ -30,5 +30,6 @@ _Bảng tiến độ hiển thị chi tiết số bài giải thực tế trên 
 ## Array
 |  |
 | ------- |
+| [0485-max-consecutive-ones](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0485-max-consecutive-ones) |
 | [1470-shuffle-the-array](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/1470-shuffle-the-array) |
 <!---LeetCode Topics End-->
