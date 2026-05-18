@@ -34,6 +34,7 @@ _Bảng tiến độ hiển thị chi tiết số bài giải thực tế trên 
 ## String
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0387-first-unique-character-in-a-string) |
 ## Queue
 |  |
@@ -43,4 +44,12 @@ _Bảng tiến độ hiển thị chi tiết số bài giải thực tế trên 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0387-first-unique-character-in-a-string) |
+## Two Pointers
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
