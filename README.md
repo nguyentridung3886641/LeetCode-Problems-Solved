@@ -5,18 +5,18 @@ Chào mừng đến với không gian lưu trữ lời giải thuật toán củ
 ## 📊 Thống kê tiến độ LeetCode
 
 <p align="center">
-  <img src="https://img.shields.io/badge/LeetCode-20_/_3934_Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode Total" />
+  <img src="https://img.shields.io/badge/LeetCode-27_/_3934_Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode Total" />
 </p>
 
 ### 📈 Chi tiết các mức độ:
 
-* **🟢 Easy:** `20 / 944`
+* **🟢 Easy:** `24 / 944`
   <br>
-  <img src="https://geps.dev/progress/2.1?width=400&dangerColor=22c55e&warningColor=22c55e&successColor=22c55e" alt="Easy Progress" />
+  <img src="https://geps.dev/progress/2.5?width=400&dangerColor=22c55e&warningColor=22c55e&successColor=22c55e" alt="Easy Progress" />
 
-* **🟡 Medium:** `0 / 2056`
+* **🟡 Medium:** `3 / 2056`
   <br>
-  <img src="https://geps.dev/progress/0.0?width=400&dangerColor=eab308&warningColor=eab308&successColor=eab308" alt="Medium Progress" />
+  <img src="https://geps.dev/progress/0.1?width=400&dangerColor=eab308&warningColor=eab308&successColor=eab308" alt="Medium Progress" />
 
 * **🔴 Hard:** `0 / 934`
   <br>
@@ -24,62 +24,3 @@ Chào mừng đến với không gian lưu trữ lời giải thuật toán củ
 
 ---
 _Bảng tiến độ hiển thị chi tiết số bài giải thực tế trên hệ thống và được cập nhật tự động bằng sự kiện Push._
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-|  |
-| ------- |
-| [0014-longest-common-prefix](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0014-longest-common-prefix) |
-| [1441-build-an-array-with-stack-operations](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/1441-build-an-array-with-stack-operations) |
-## Stack
-|  |
-| ------- |
-| [1441-build-an-array-with-stack-operations](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/1441-build-an-array-with-stack-operations) |
-## Simulation
-|  |
-| ------- |
-| [0067-add-binary](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0067-add-binary) |
-| [1441-build-an-array-with-stack-operations](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/1441-build-an-array-with-stack-operations) |
-## Math
-|  |
-| ------- |
-| [0067-add-binary](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0067-add-binary) |
-| [1071-greatest-common-divisor-of-strings](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/1071-greatest-common-divisor-of-strings) |
-## String
-|  |
-| ------- |
-| [0014-longest-common-prefix](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0014-longest-common-prefix) |
-| [0067-add-binary](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0067-add-binary) |
-| [0438-find-all-anagrams-in-a-string](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0438-find-all-anagrams-in-a-string) |
-| [1071-greatest-common-divisor-of-strings](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/1071-greatest-common-divisor-of-strings) |
-| [1768-merge-strings-alternately](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/1768-merge-strings-alternately) |
-## Bit Manipulation
-|  |
-| ------- |
-| [0067-add-binary](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0067-add-binary) |
-## Two Pointers
-|  |
-| ------- |
-| [1768-merge-strings-alternately](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/1768-merge-strings-alternately) |
-## Hash Table
-|  |
-| ------- |
-| [0438-find-all-anagrams-in-a-string](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0438-find-all-anagrams-in-a-string) |
-## Sliding Window
-|  |
-| ------- |
-| [0438-find-all-anagrams-in-a-string](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0438-find-all-anagrams-in-a-string) |
-## Linked List
-|  |
-| ------- |
-| [0147-insertion-sort-list](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0147-insertion-sort-list) |
-## Sorting
-|  |
-| ------- |
-| [0147-insertion-sort-list](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0147-insertion-sort-list) |
-## Trie
-|  |
-| ------- |
-| [0014-longest-common-prefix](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0014-longest-common-prefix) |
-<!---LeetCode Topics End-->
