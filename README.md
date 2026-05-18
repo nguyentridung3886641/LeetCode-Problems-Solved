@@ -5,14 +5,14 @@ Chào mừng đến với không gian lưu trữ lời giải thuật toán củ
 ## 📊 Thống kê tiến độ LeetCode
 
 <p align="center">
-  <img src="https://img.shields.io/badge/LeetCode-15_/_3934_Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode Total" />
+  <img src="https://img.shields.io/badge/LeetCode-20_/_3934_Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode Total" />
 </p>
 
 ### 📈 Chi tiết các mức độ:
 
-* **🟢 Easy:** `15 / 944`
+* **🟢 Easy:** `20 / 944`
   <br>
-  <img src="https://geps.dev/progress/1.6?width=400&dangerColor=22c55e&warningColor=22c55e&successColor=22c55e" alt="Easy Progress" />
+  <img src="https://geps.dev/progress/2.1?width=400&dangerColor=22c55e&warningColor=22c55e&successColor=22c55e" alt="Easy Progress" />
 
 * **🟡 Medium:** `0 / 2056`
   <br>
@@ -24,34 +24,3 @@ Chào mừng đến với không gian lưu trữ lời giải thuật toán củ
 
 ---
 _Bảng tiến độ hiển thị chi tiết số bài giải thực tế trên hệ thống và được cập nhật tự động bằng sự kiện Push._
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-|  |
-| ------- |
-| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
-| [0485-max-consecutive-ones](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0485-max-consecutive-ones) |
-| [0645-set-mismatch](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0645-set-mismatch) |
-| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
-| [1470-shuffle-the-array](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/1470-shuffle-the-array) |
-## Hash Table
-|  |
-| ------- |
-| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
-| [0645-set-mismatch](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0645-set-mismatch) |
-| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
-## Bit Manipulation
-|  |
-| ------- |
-| [0645-set-mismatch](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0645-set-mismatch) |
-## Sorting
-|  |
-| ------- |
-| [0645-set-mismatch](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0645-set-mismatch) |
-| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
-## Counting Sort
-|  |
-| ------- |
-| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
-<!---LeetCode Topics End-->
