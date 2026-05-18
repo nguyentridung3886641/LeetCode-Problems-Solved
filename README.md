@@ -32,6 +32,7 @@ _Bảng tiến độ hiển thị chi tiết số bài giải thực tế trên 
 | ------- |
 | [0013-roman-to-integer](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0013-roman-to-integer) |
 | [0409-longest-palindrome](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0409-longest-palindrome) |
+| [1122-relative-sort-array](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/1122-relative-sort-array) |
 ## Math
 |  |
 | ------- |
@@ -50,6 +51,7 @@ _Bảng tiến độ hiển thị chi tiết số bài giải thực tế trên 
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0033-search-in-rotated-sorted-array) |
 | [0075-sort-colors](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0075-sort-colors) |
+| [1122-relative-sort-array](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/1122-relative-sort-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -62,4 +64,9 @@ _Bảng tiến độ hiển thị chi tiết số bài giải thực tế trên 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0075-sort-colors) |
+| [1122-relative-sort-array](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/1122-relative-sort-array) |
+## Counting Sort
+|  |
+| ------- |
+| [1122-relative-sort-array](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/1122-relative-sort-array) |
 <!---LeetCode Topics End-->
