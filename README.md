@@ -31,6 +31,7 @@ _Bảng tiến độ hiển thị chi tiết số bài giải thực tế trên 
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0008-string-to-integer-atoi) |
+| [0020-valid-parentheses](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0020-valid-parentheses) |
 ## Array
 |  |
 | ------- |
@@ -57,4 +58,8 @@ _Bảng tiến độ hiển thị chi tiết số bài giải thực tế trên 
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0374-guess-number-higher-or-lower) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
