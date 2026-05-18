@@ -36,6 +36,7 @@ _Bảng tiến độ hiển thị chi tiết số bài giải thực tế trên 
 ## Two Pointers
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0151-reverse-words-in-a-string](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0151-reverse-words-in-a-string) |
 | [0202-happy-number](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0202-happy-number) |
@@ -60,6 +61,7 @@ _Bảng tiến độ hiển thị chi tiết số bài giải thực tế trên 
 ## Linked List
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0083-remove-duplicates-from-sorted-list) |
 ## Stack
 |  |
