@@ -68,4 +68,12 @@ _Bảng tiến độ hiển thị chi tiết số bài giải thực tế trên 
 |  |
 | ------- |
 | [0438-find-all-anagrams-in-a-string](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0438-find-all-anagrams-in-a-string) |
+## Linked List
+|  |
+| ------- |
+| [0147-insertion-sort-list](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0147-insertion-sort-list) |
+## Sorting
+|  |
+| ------- |
+| [0147-insertion-sort-list](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0147-insertion-sort-list) |
 <!---LeetCode Topics End-->
