@@ -24,3 +24,23 @@ Chào mừng đến với không gian lưu trữ lời giải thuật toán củ
 
 ---
 _Bảng tiến độ hiển thị chi tiết số bài giải thực tế trên hệ thống và được cập nhật tự động bằng sự kiện Push._
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0049-group-anagrams](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0049-group-anagrams) |
+## Hash Table
+|  |
+| ------- |
+| [0049-group-anagrams](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0049-group-anagrams) |
+## String
+|  |
+| ------- |
+| [0049-group-anagrams](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0049-group-anagrams) |
+## Sorting
+|  |
+| ------- |
+| [0049-group-anagrams](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0049-group-anagrams) |
+<!---LeetCode Topics End-->
