@@ -5,18 +5,18 @@ Chào mừng đến với không gian lưu trữ lời giải thuật toán củ
 ## 📊 Thống kê tiến độ LeetCode
 
 <p align="center">
-  <img src="https://img.shields.io/badge/LeetCode-27_/_3934_Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode Total" />
+  <img src="https://img.shields.io/badge/LeetCode-35_/_3934_Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode Total" />
 </p>
 
 ### 📈 Chi tiết các mức độ:
 
-* **🟢 Easy:** `24 / 944`
+* **🟢 Easy:** `28 / 944`
   <br>
-  <img src="https://geps.dev/progress/2.5?width=400&dangerColor=22c55e&warningColor=22c55e&successColor=22c55e" alt="Easy Progress" />
+  <img src="https://geps.dev/progress/3.0?width=400&dangerColor=22c55e&warningColor=22c55e&successColor=22c55e" alt="Easy Progress" />
 
-* **🟡 Medium:** `3 / 2056`
+* **🟡 Medium:** `7 / 2056`
   <br>
-  <img src="https://geps.dev/progress/0.1?width=400&dangerColor=eab308&warningColor=eab308&successColor=eab308" alt="Medium Progress" />
+  <img src="https://geps.dev/progress/0.3?width=400&dangerColor=eab308&warningColor=eab308&successColor=eab308" alt="Medium Progress" />
 
 * **🔴 Hard:** `0 / 934`
   <br>
@@ -24,43 +24,3 @@ Chào mừng đến với không gian lưu trữ lời giải thuật toán củ
 
 ---
 _Bảng tiến độ hiển thị chi tiết số bài giải thực tế trên hệ thống và được cập nhật tự động bằng sự kiện Push._
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## String
-|  |
-| ------- |
-| [0008-string-to-integer-atoi](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0008-string-to-integer-atoi) |
-| [0020-valid-parentheses](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0020-valid-parentheses) |
-| [0038-count-and-say](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0038-count-and-say) |
-## Array
-|  |
-| ------- |
-| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
-| [0035-search-insert-position](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0035-search-insert-position) |
-| [0704-binary-search](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0704-binary-search) |
-| [2161-partition-array-according-to-given-pivot](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/2161-partition-array-according-to-given-pivot) |
-## Two Pointers
-|  |
-| ------- |
-| [2161-partition-array-according-to-given-pivot](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/2161-partition-array-according-to-given-pivot) |
-## Simulation
-|  |
-| ------- |
-| [2161-partition-array-according-to-given-pivot](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/2161-partition-array-according-to-given-pivot) |
-## Binary Search
-|  |
-| ------- |
-| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
-| [0035-search-insert-position](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0035-search-insert-position) |
-| [0374-guess-number-higher-or-lower](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0374-guess-number-higher-or-lower) |
-| [0704-binary-search](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0704-binary-search) |
-## Interactive
-|  |
-| ------- |
-| [0374-guess-number-higher-or-lower](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0374-guess-number-higher-or-lower) |
-## Stack
-|  |
-| ------- |
-| [0020-valid-parentheses](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0020-valid-parentheses) |
-<!---LeetCode Topics End-->
