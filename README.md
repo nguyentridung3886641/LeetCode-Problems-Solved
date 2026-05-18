@@ -31,6 +31,7 @@ _Bảng tiến độ hiển thị chi tiết số bài giải thực tế trên 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0258-add-digits) |
+| [0509-fibonacci-number](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0509-fibonacci-number) |
 ## Simulation
 |  |
 | ------- |
@@ -39,4 +40,16 @@ _Bảng tiến độ hiển thị chi tiết số bài giải thực tế trên 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0258-add-digits) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0509-fibonacci-number) |
+## Recursion
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
