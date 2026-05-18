@@ -24,3 +24,23 @@ Chào mừng đến với không gian lưu trữ lời giải thuật toán củ
 
 ---
 _Bảng tiến độ hiển thị chi tiết số bài giải thực tế trên hệ thống và được cập nhật tự động bằng sự kiện Push._
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Hash Table
+|  |
+| ------- |
+| [0389-find-the-difference](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0389-find-the-difference) |
+## String
+|  |
+| ------- |
+| [0389-find-the-difference](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0389-find-the-difference) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0389-find-the-difference](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0389-find-the-difference) |
+## Sorting
+|  |
+| ------- |
+| [0389-find-the-difference](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0389-find-the-difference) |
+<!---LeetCode Topics End-->
