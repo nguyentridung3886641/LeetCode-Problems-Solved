@@ -37,6 +37,7 @@ _Bảng tiến độ hiển thị chi tiết số bài giải thực tế trên 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0151-reverse-words-in-a-string](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0151-reverse-words-in-a-string) |
+| [0202-happy-number](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0202-happy-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0977-squares-of-a-sorted-array) |
 ## Array
 |  |
@@ -47,4 +48,12 @@ _Bảng tiến độ hiển thị chi tiết số bài giải thực tế trên 
 |  |
 | ------- |
 | [0977-squares-of-a-sorted-array](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0977-squares-of-a-sorted-array) |
+## Hash Table
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0202-happy-number) |
+## Math
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
