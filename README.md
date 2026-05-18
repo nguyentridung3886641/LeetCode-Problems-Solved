@@ -24,3 +24,19 @@ Chào mừng đến với không gian lưu trữ lời giải thuật toán củ
 
 ---
 _Bảng tiến độ hiển thị chi tiết số bài giải thực tế trên hệ thống và được cập nhật tự động bằng sự kiện Push._
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0905-sort-array-by-parity](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0905-sort-array-by-parity) |
+## Two Pointers
+|  |
+| ------- |
+| [0905-sort-array-by-parity](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0905-sort-array-by-parity) |
+## Sorting
+|  |
+| ------- |
+| [0905-sort-array-by-parity](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0905-sort-array-by-parity) |
+<!---LeetCode Topics End-->
