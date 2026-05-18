@@ -1,5 +1,3 @@
-import java.util.*;
-
 class Solution {
     public int[] countWordOccurrences(String[] chunks, String[] queries) {
         int[] res = new int[queries.length];
