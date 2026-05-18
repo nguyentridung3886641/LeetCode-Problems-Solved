@@ -45,6 +45,7 @@ _Bảng tiến độ hiển thị chi tiết số bài giải thực tế trên 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0739-daily-temperatures](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0739-daily-temperatures) |
 | [0977-squares-of-a-sorted-array](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0977-squares-of-a-sorted-array) |
 ## Sorting
 |  |
@@ -66,5 +67,10 @@ _Bảng tiến độ hiển thị chi tiết số bài giải thực tế trên 
 ## Stack
 |  |
 | ------- |
+| [0739-daily-temperatures](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0739-daily-temperatures) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
