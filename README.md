@@ -39,4 +39,16 @@ _Bảng tiến độ hiển thị chi tiết số bài giải thực tế trên 
 |  |
 | ------- |
 | [0450-delete-node-in-a-bst](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0450-delete-node-in-a-bst) |
+## Stack
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0225-implement-stack-using-queues) |
+## Design
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0225-implement-stack-using-queues) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
