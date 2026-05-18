@@ -49,5 +49,10 @@ _Bảng tiến độ hiển thị chi tiết số bài giải thực tế trên 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0035-search-insert-position) |
+| [0374-guess-number-higher-or-lower](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0374-guess-number-higher-or-lower) |
 | [0704-binary-search](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0704-binary-search) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
