@@ -24,3 +24,15 @@ Chào mừng đến với không gian lưu trữ lời giải thuật toán củ
 
 ---
 _Bảng tiến độ hiển thị chi tiết số bài giải thực tế trên hệ thống và được cập nhật tự động bằng sự kiện Push._
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Binary Search
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0278-first-bad-version) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0278-first-bad-version) |
+<!---LeetCode Topics End-->
