@@ -38,5 +38,18 @@ _Bảng tiến độ hiển thị chi tiết số bài giải thực tế trên 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0067-add-binary) |
 | [1441-build-an-array-with-stack-operations](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/1441-build-an-array-with-stack-operations) |
+## Math
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0067-add-binary) |
+## String
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0067-add-binary) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
