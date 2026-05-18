@@ -32,6 +32,7 @@ _Bảng tiến độ hiển thị chi tiết số bài giải thực tế trên 
 | ------- |
 | [0001-two-sum](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0015-3sum) |
+| [0128-longest-consecutive-sequence](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0128-longest-consecutive-sequence) |
 | [0347-top-k-frequent-elements](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0347-top-k-frequent-elements) |
 ## Two Pointers
 |  |
@@ -65,6 +66,7 @@ _Bảng tiến độ hiển thị chi tiết số bài giải thực tế trên 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0001-two-sum) |
+| [0128-longest-consecutive-sequence](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0128-longest-consecutive-sequence) |
 | [0347-top-k-frequent-elements](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0424-longest-repeating-character-replacement) |
 ## String
@@ -95,4 +97,8 @@ _Bảng tiến độ hiển thị chi tiết số bài giải thực tế trên 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0347-top-k-frequent-elements) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
