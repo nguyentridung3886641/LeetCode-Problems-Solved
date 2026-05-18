@@ -30,6 +30,7 @@ _Bảng tiến độ hiển thị chi tiết số bài giải thực tế trên 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0015-3sum) |
 ## Two Pointers
 |  |
@@ -58,4 +59,8 @@ _Bảng tiến độ hiển thị chi tiết số bài giải thực tế trên 
 |  |
 | ------- |
 | [0199-binary-tree-right-side-view](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0199-binary-tree-right-side-view) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
