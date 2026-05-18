@@ -5,18 +5,18 @@ Chào mừng đến với không gian lưu trữ lời giải thuật toán củ
 ## 📊 Thống kê tiến độ LeetCode
 
 <p align="center">
-  <img src="https://img.shields.io/badge/LeetCode-52_/_3934_Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode Total" />
+  <img src="https://img.shields.io/badge/LeetCode-55_/_3934_Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode Total" />
 </p>
 
 ### 📈 Chi tiết các mức độ:
 
-* **🟢 Easy:** `39 / 944`
+* **🟢 Easy:** `41 / 944`
   <br>
-  <img src="https://geps.dev/progress/4.1?width=400&dangerColor=22c55e&warningColor=22c55e&successColor=22c55e" alt="Easy Progress" />
+  <img src="https://geps.dev/progress/4.3?width=400&dangerColor=22c55e&warningColor=22c55e&successColor=22c55e" alt="Easy Progress" />
 
-* **🟡 Medium:** `13 / 2056`
+* **🟡 Medium:** `14 / 2056`
   <br>
-  <img src="https://geps.dev/progress/0.6?width=400&dangerColor=eab308&warningColor=eab308&successColor=eab308" alt="Medium Progress" />
+  <img src="https://geps.dev/progress/0.7?width=400&dangerColor=eab308&warningColor=eab308&successColor=eab308" alt="Medium Progress" />
 
 * **🔴 Hard:** `0 / 934`
   <br>
@@ -24,34 +24,3 @@ Chào mừng đến với không gian lưu trữ lời giải thuật toán củ
 
 ---
 _Bảng tiến độ hiển thị chi tiết số bài giải thực tế trên hệ thống và được cập nhật tự động bằng sự kiện Push._
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Linked List
-|  |
-| ------- |
-| [0705-design-hashset](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0705-design-hashset) |
-| [0706-design-hashmap](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0706-design-hashmap) |
-| [0707-design-linked-list](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0707-design-linked-list) |
-## Design
-|  |
-| ------- |
-| [0705-design-hashset](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0705-design-hashset) |
-| [0706-design-hashmap](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0706-design-hashmap) |
-| [0707-design-linked-list](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0707-design-linked-list) |
-## Array
-|  |
-| ------- |
-| [0705-design-hashset](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0705-design-hashset) |
-| [0706-design-hashmap](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0706-design-hashmap) |
-## Hash Table
-|  |
-| ------- |
-| [0705-design-hashset](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0705-design-hashset) |
-| [0706-design-hashmap](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0706-design-hashmap) |
-## Hash Function
-|  |
-| ------- |
-| [0705-design-hashset](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0705-design-hashset) |
-| [0706-design-hashmap](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0706-design-hashmap) |
-<!---LeetCode Topics End-->
