@@ -35,6 +35,7 @@ _Bảng tiến độ hiển thị chi tiết số bài giải thực tế trên 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0173-binary-search-tree-iterator](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0173-binary-search-tree-iterator) |
 | [0450-delete-node-in-a-bst](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0450-delete-node-in-a-bst) |
 ## Binary Tree
@@ -60,4 +61,12 @@ _Bảng tiến độ hiển thị chi tiết số bài giải thực tế trên 
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0173-binary-search-tree-iterator) |
+## Array
+|  |
+| ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+## Two Pointers
+|  |
+| ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 <!---LeetCode Topics End-->
