@@ -56,4 +56,8 @@ _Bảng tiến độ hiển thị chi tiết số bài giải thực tế trên 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0202-happy-number) |
+## Linked List
+|  |
+| ------- |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0083-remove-duplicates-from-sorted-list) |
 <!---LeetCode Topics End-->
