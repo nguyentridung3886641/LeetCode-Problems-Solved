@@ -31,6 +31,7 @@ _Bảng tiến độ hiển thị chi tiết số bài giải thực tế trên 
 |  |
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0151-reverse-words-in-a-string) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1108-defanging-an-ip-address](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/1108-defanging-an-ip-address) |
 ## Two Pointers
 |  |
@@ -60,4 +61,8 @@ _Bảng tiến độ hiển thị chi tiết số bài giải thực tế trên 
 |  |
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0083-remove-duplicates-from-sorted-list) |
+## Stack
+|  |
+| ------- |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 <!---LeetCode Topics End-->
