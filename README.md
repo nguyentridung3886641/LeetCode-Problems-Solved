@@ -30,5 +30,10 @@ _Bảng tiến độ hiển thị chi tiết số bài giải thực tế trên 
 ## String
 |  |
 | ------- |
+| [0151-reverse-words-in-a-string](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0151-reverse-words-in-a-string) |
 | [1108-defanging-an-ip-address](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/1108-defanging-an-ip-address) |
+## Two Pointers
+|  |
+| ------- |
+| [0151-reverse-words-in-a-string](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0151-reverse-words-in-a-string) |
 <!---LeetCode Topics End-->
