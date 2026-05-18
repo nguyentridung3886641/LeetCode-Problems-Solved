@@ -5,14 +5,14 @@ Chào mừng đến với không gian lưu trữ lời giải thuật toán củ
 ## 📊 Thống kê tiến độ LeetCode
 
 <p align="center">
-  <img src="https://img.shields.io/badge/LeetCode-43_/_3934_Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode Total" />
+  <img src="https://img.shields.io/badge/LeetCode-44_/_3934_Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode Total" />
 </p>
 
 ### 📈 Chi tiết các mức độ:
 
-* **🟢 Easy:** `32 / 944`
+* **🟢 Easy:** `33 / 944`
   <br>
-  <img src="https://geps.dev/progress/3.4?width=400&dangerColor=22c55e&warningColor=22c55e&successColor=22c55e" alt="Easy Progress" />
+  <img src="https://geps.dev/progress/3.5?width=400&dangerColor=22c55e&warningColor=22c55e&successColor=22c55e" alt="Easy Progress" />
 
 * **🟡 Medium:** `11 / 2056`
   <br>
@@ -24,19 +24,3 @@ Chào mừng đến với không gian lưu trữ lời giải thuật toán củ
 
 ---
 _Bảng tiến độ hiển thị chi tiết số bài giải thực tế trên hệ thống và được cập nhật tự động bằng sự kiện Push._
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-|  |
-| ------- |
-| [0905-sort-array-by-parity](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0905-sort-array-by-parity) |
-## Two Pointers
-|  |
-| ------- |
-| [0905-sort-array-by-parity](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0905-sort-array-by-parity) |
-## Sorting
-|  |
-| ------- |
-| [0905-sort-array-by-parity](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0905-sort-array-by-parity) |
-<!---LeetCode Topics End-->
