@@ -50,6 +50,7 @@ _Bảng tiến độ hiển thị chi tiết số bài giải thực tế trên 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0033-search-in-rotated-sorted-array) |
+| [0056-merge-intervals](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0075-sort-colors) |
 | [0912-sort-an-array](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0912-sort-an-array) |
 | [1122-relative-sort-array](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/1122-relative-sort-array) |
@@ -64,6 +65,7 @@ _Bảng tiến độ hiển thị chi tiết số bài giải thực tế trên 
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0075-sort-colors) |
 | [0912-sort-an-array](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0912-sort-an-array) |
 | [1122-relative-sort-array](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/1122-relative-sort-array) |
