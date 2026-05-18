@@ -48,6 +48,7 @@ _Bảng tiến độ hiển thị chi tiết số bài giải thực tế trên 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0067-add-binary) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0438-find-all-anagrams-in-a-string) |
 | [1768-merge-strings-alternately](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/1768-merge-strings-alternately) |
 ## Bit Manipulation
 |  |
@@ -57,4 +58,12 @@ _Bảng tiến độ hiển thị chi tiết số bài giải thực tế trên 
 |  |
 | ------- |
 | [1768-merge-strings-alternately](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/1768-merge-strings-alternately) |
+## Hash Table
+|  |
+| ------- |
+| [0438-find-all-anagrams-in-a-string](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0438-find-all-anagrams-in-a-string) |
+## Sliding Window
+|  |
+| ------- |
+| [0438-find-all-anagrams-in-a-string](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0438-find-all-anagrams-in-a-string) |
 <!---LeetCode Topics End-->
