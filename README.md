@@ -30,10 +30,16 @@ _Bảng tiến độ hiển thị chi tiết số bài giải thực tế trên 
 ## String
 |  |
 | ------- |
+| [0392-is-subsequence](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0392-is-subsequence) |
 | [0520-detect-capital](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0520-detect-capital) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0557-reverse-words-in-a-string-iii) |
 ## Two Pointers
 |  |
 | ------- |
+| [0392-is-subsequence](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0392-is-subsequence) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0557-reverse-words-in-a-string-iii) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0392-is-subsequence](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0392-is-subsequence) |
 <!---LeetCode Topics End-->
