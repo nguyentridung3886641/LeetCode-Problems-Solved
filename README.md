@@ -5,18 +5,18 @@ Chào mừng đến với không gian lưu trữ lời giải thuật toán củ
 ## 📊 Thống kê tiến độ LeetCode
 
 <p align="center">
-  <img src="https://img.shields.io/badge/LeetCode-36_/_3934_Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode Total" />
+  <img src="https://img.shields.io/badge/LeetCode-43_/_3934_Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode Total" />
 </p>
 
 ### 📈 Chi tiết các mức độ:
 
-* **🟢 Easy:** `29 / 944`
+* **🟢 Easy:** `32 / 944`
   <br>
-  <img src="https://geps.dev/progress/3.1?width=400&dangerColor=22c55e&warningColor=22c55e&successColor=22c55e" alt="Easy Progress" />
+  <img src="https://geps.dev/progress/3.4?width=400&dangerColor=22c55e&warningColor=22c55e&successColor=22c55e" alt="Easy Progress" />
 
-* **🟡 Medium:** `7 / 2056`
+* **🟡 Medium:** `11 / 2056`
   <br>
-  <img src="https://geps.dev/progress/0.3?width=400&dangerColor=eab308&warningColor=eab308&successColor=eab308" alt="Medium Progress" />
+  <img src="https://geps.dev/progress/0.5?width=400&dangerColor=eab308&warningColor=eab308&successColor=eab308" alt="Medium Progress" />
 
 * **🔴 Hard:** `0 / 934`
   <br>
@@ -24,74 +24,3 @@ Chào mừng đến với không gian lưu trữ lời giải thuật toán củ
 
 ---
 _Bảng tiến độ hiển thị chi tiết số bài giải thực tế trên hệ thống và được cập nhật tự động bằng sự kiện Push._
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Hash Table
-|  |
-| ------- |
-| [0013-roman-to-integer](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0013-roman-to-integer) |
-| [0409-longest-palindrome](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0409-longest-palindrome) |
-| [1122-relative-sort-array](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/1122-relative-sort-array) |
-## Math
-|  |
-| ------- |
-| [0013-roman-to-integer](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0013-roman-to-integer) |
-## String
-|  |
-| ------- |
-| [0013-roman-to-integer](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0013-roman-to-integer) |
-| [0409-longest-palindrome](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0409-longest-palindrome) |
-## Greedy
-|  |
-| ------- |
-| [0409-longest-palindrome](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0409-longest-palindrome) |
-## Array
-|  |
-| ------- |
-| [0033-search-in-rotated-sorted-array](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0033-search-in-rotated-sorted-array) |
-| [0056-merge-intervals](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0056-merge-intervals) |
-| [0075-sort-colors](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0075-sort-colors) |
-| [0912-sort-an-array](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0912-sort-an-array) |
-| [1122-relative-sort-array](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/1122-relative-sort-array) |
-## Binary Search
-|  |
-| ------- |
-| [0033-search-in-rotated-sorted-array](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0033-search-in-rotated-sorted-array) |
-## Two Pointers
-|  |
-| ------- |
-| [0075-sort-colors](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0075-sort-colors) |
-## Sorting
-|  |
-| ------- |
-| [0056-merge-intervals](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0056-merge-intervals) |
-| [0075-sort-colors](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0075-sort-colors) |
-| [0912-sort-an-array](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0912-sort-an-array) |
-| [1122-relative-sort-array](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/1122-relative-sort-array) |
-## Counting Sort
-|  |
-| ------- |
-| [0912-sort-an-array](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0912-sort-an-array) |
-| [1122-relative-sort-array](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/1122-relative-sort-array) |
-## Divide and Conquer
-|  |
-| ------- |
-| [0912-sort-an-array](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0912-sort-an-array) |
-## Heap (Priority Queue)
-|  |
-| ------- |
-| [0912-sort-an-array](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0912-sort-an-array) |
-## Merge Sort
-|  |
-| ------- |
-| [0912-sort-an-array](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0912-sort-an-array) |
-## Bucket Sort
-|  |
-| ------- |
-| [0912-sort-an-array](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0912-sort-an-array) |
-## Radix Sort
-|  |
-| ------- |
-| [0912-sort-an-array](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0912-sort-an-array) |
-<!---LeetCode Topics End-->
