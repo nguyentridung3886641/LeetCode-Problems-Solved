@@ -39,4 +39,16 @@ _Bảng tiến độ hiển thị chi tiết số bài giải thực tế trên 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0015-3sum) |
+## Tree
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0543-diameter-of-binary-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0543-diameter-of-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0543-diameter-of-binary-tree) |
 <!---LeetCode Topics End-->
