@@ -42,13 +42,20 @@ _Bảng tiến độ hiển thị chi tiết số bài giải thực tế trên 
 ## Tree
 |  |
 | ------- |
+| [0199-binary-tree-right-side-view](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0199-binary-tree-right-side-view) |
 | [0543-diameter-of-binary-tree](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0543-diameter-of-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0199-binary-tree-right-side-view](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0199-binary-tree-right-side-view) |
 | [0543-diameter-of-binary-tree](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0543-diameter-of-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
+| [0199-binary-tree-right-side-view](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0199-binary-tree-right-side-view) |
 | [0543-diameter-of-binary-tree](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0543-diameter-of-binary-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0199-binary-tree-right-side-view](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0199-binary-tree-right-side-view) |
 <!---LeetCode Topics End-->
