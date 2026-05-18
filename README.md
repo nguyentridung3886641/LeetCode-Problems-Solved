@@ -48,8 +48,13 @@ _Bảng tiến độ hiển thị chi tiết số bài giải thực tế trên 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0067-add-binary) |
+| [1768-merge-strings-alternately](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/1768-merge-strings-alternately) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0067-add-binary) |
+## Two Pointers
+|  |
+| ------- |
+| [1768-merge-strings-alternately](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/1768-merge-strings-alternately) |
 <!---LeetCode Topics End-->
