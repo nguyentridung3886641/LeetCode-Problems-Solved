@@ -35,5 +35,10 @@ _Bảng tiến độ hiển thị chi tiết số bài giải thực tế trên 
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0151-reverse-words-in-a-string](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0151-reverse-words-in-a-string) |
+## Array
+|  |
+| ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0026-remove-duplicates-from-sorted-array) |
 <!---LeetCode Topics End-->
