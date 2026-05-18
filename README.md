@@ -5,14 +5,14 @@ Chào mừng đến với không gian lưu trữ lời giải thuật toán củ
 ## 📊 Thống kê tiến độ LeetCode
 
 <p align="center">
-  <img src="https://img.shields.io/badge/LeetCode-45_/_3934_Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode Total" />
+  <img src="https://img.shields.io/badge/LeetCode-48_/_3934_Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode Total" />
 </p>
 
 ### 📈 Chi tiết các mức độ:
 
-* **🟢 Easy:** `33 / 944`
+* **🟢 Easy:** `36 / 944`
   <br>
-  <img src="https://geps.dev/progress/3.5?width=400&dangerColor=22c55e&warningColor=22c55e&successColor=22c55e" alt="Easy Progress" />
+  <img src="https://geps.dev/progress/3.8?width=400&dangerColor=22c55e&warningColor=22c55e&successColor=22c55e" alt="Easy Progress" />
 
 * **🟡 Medium:** `12 / 2056`
   <br>
@@ -24,40 +24,3 @@ Chào mừng đến với không gian lưu trữ lời giải thuật toán củ
 
 ---
 _Bảng tiến độ hiển thị chi tiết số bài giải thực tế trên hệ thống và được cập nhật tự động bằng sự kiện Push._
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Math
-|  |
-| ------- |
-| [0258-add-digits](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0258-add-digits) |
-| [0509-fibonacci-number](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0509-fibonacci-number) |
-## Simulation
-|  |
-| ------- |
-| [0258-add-digits](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0258-add-digits) |
-## Number Theory
-|  |
-| ------- |
-| [0258-add-digits](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0258-add-digits) |
-## Dynamic Programming
-|  |
-| ------- |
-| [0509-fibonacci-number](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0509-fibonacci-number) |
-## Recursion
-|  |
-| ------- |
-| [0509-fibonacci-number](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0509-fibonacci-number) |
-## Memoization
-|  |
-| ------- |
-| [0509-fibonacci-number](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0509-fibonacci-number) |
-## String
-|  |
-| ------- |
-| [0796-rotate-string](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0796-rotate-string) |
-## String Matching
-|  |
-| ------- |
-| [0796-rotate-string](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0796-rotate-string) |
-<!---LeetCode Topics End-->
