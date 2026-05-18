@@ -24,3 +24,19 @@ Chào mừng đến với không gian lưu trữ lời giải thuật toán củ
 
 ---
 _Bảng tiến độ hiển thị chi tiết số bài giải thực tế trên hệ thống và được cập nhật tự động bằng sự kiện Push._
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Hash Table
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0003-longest-substring-without-repeating-characters) |
+## String
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0003-longest-substring-without-repeating-characters) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0003-longest-substring-without-repeating-characters) |
+<!---LeetCode Topics End-->
