@@ -5,18 +5,18 @@ Chào mừng đến với không gian lưu trữ lời giải thuật toán củ
 ## 📊 Thống kê tiến độ LeetCode
 
 <p align="center">
-  <img src="https://img.shields.io/badge/LeetCode-66_/_3934_Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode Total" />
+  <img src="https://img.shields.io/badge/LeetCode-76_/_3934_Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode Total" />
 </p>
 
 ### 📈 Chi tiết các mức độ:
 
-* **🟢 Easy:** `45 / 944`
+* **🟢 Easy:** `51 / 944`
   <br>
-  <img src="https://geps.dev/progress/4.8?width=400&dangerColor=22c55e&warningColor=22c55e&successColor=22c55e" alt="Easy Progress" />
+  <img src="https://geps.dev/progress/5.4?width=400&dangerColor=22c55e&warningColor=22c55e&successColor=22c55e" alt="Easy Progress" />
 
-* **🟡 Medium:** `21 / 2056`
+* **🟡 Medium:** `25 / 2056`
   <br>
-  <img src="https://geps.dev/progress/1.0?width=400&dangerColor=eab308&warningColor=eab308&successColor=eab308" alt="Medium Progress" />
+  <img src="https://geps.dev/progress/1.2?width=400&dangerColor=eab308&warningColor=eab308&successColor=eab308" alt="Medium Progress" />
 
 * **🔴 Hard:** `0 / 934`
   <br>
@@ -24,53 +24,3 @@ Chào mừng đến với không gian lưu trữ lời giải thuật toán củ
 
 ---
 _Bảng tiến độ hiển thị chi tiết số bài giải thực tế trên hệ thống và được cập nhật tự động bằng sự kiện Push._
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## String
-|  |
-| ------- |
-| [0151-reverse-words-in-a-string](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0151-reverse-words-in-a-string) |
-| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
-| [1108-defanging-an-ip-address](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/1108-defanging-an-ip-address) |
-## Two Pointers
-|  |
-| ------- |
-| [0019-remove-nth-node-from-end-of-list](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0019-remove-nth-node-from-end-of-list) |
-| [0026-remove-duplicates-from-sorted-array](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0026-remove-duplicates-from-sorted-array) |
-| [0151-reverse-words-in-a-string](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0151-reverse-words-in-a-string) |
-| [0202-happy-number](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0202-happy-number) |
-| [0977-squares-of-a-sorted-array](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0977-squares-of-a-sorted-array) |
-## Array
-|  |
-| ------- |
-| [0026-remove-duplicates-from-sorted-array](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0026-remove-duplicates-from-sorted-array) |
-| [0739-daily-temperatures](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0739-daily-temperatures) |
-| [0977-squares-of-a-sorted-array](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0977-squares-of-a-sorted-array) |
-## Sorting
-|  |
-| ------- |
-| [0977-squares-of-a-sorted-array](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0977-squares-of-a-sorted-array) |
-## Hash Table
-|  |
-| ------- |
-| [0202-happy-number](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0202-happy-number) |
-## Math
-|  |
-| ------- |
-| [0202-happy-number](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0202-happy-number) |
-## Linked List
-|  |
-| ------- |
-| [0019-remove-nth-node-from-end-of-list](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0019-remove-nth-node-from-end-of-list) |
-| [0083-remove-duplicates-from-sorted-list](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0083-remove-duplicates-from-sorted-list) |
-## Stack
-|  |
-| ------- |
-| [0739-daily-temperatures](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0739-daily-temperatures) |
-| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
-## Monotonic Stack
-|  |
-| ------- |
-| [0739-daily-temperatures](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0739-daily-temperatures) |
-<!---LeetCode Topics End-->
