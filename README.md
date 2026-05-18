@@ -5,7 +5,7 @@ Chào mừng đến với không gian lưu trữ lời giải thuật toán củ
 ## 📊 Thống kê tiến độ LeetCode
 
 <p align="center">
-  <img src="https://img.shields.io/badge/LeetCode-51_/_3934_Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode Total" />
+  <img src="https://img.shields.io/badge/LeetCode-52_/_3934_Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode Total" />
 </p>
 
 ### 📈 Chi tiết các mức độ:
@@ -14,7 +14,7 @@ Chào mừng đến với không gian lưu trữ lời giải thuật toán củ
   <br>
   <img src="https://geps.dev/progress/4.1?width=400&dangerColor=22c55e&warningColor=22c55e&successColor=22c55e" alt="Easy Progress" />
 
-* **🟡 Medium:** `12 / 2056`
+* **🟡 Medium:** `13 / 2056`
   <br>
   <img src="https://geps.dev/progress/0.6?width=400&dangerColor=eab308&warningColor=eab308&successColor=eab308" alt="Medium Progress" />
 
@@ -24,23 +24,3 @@ Chào mừng đến với không gian lưu trữ lời giải thuật toán củ
 
 ---
 _Bảng tiến độ hiển thị chi tiết số bài giải thực tế trên hệ thống và được cập nhật tự động bằng sự kiện Push._
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-|  |
-| ------- |
-| [0049-group-anagrams](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0049-group-anagrams) |
-## Hash Table
-|  |
-| ------- |
-| [0049-group-anagrams](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0049-group-anagrams) |
-## String
-|  |
-| ------- |
-| [0049-group-anagrams](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0049-group-anagrams) |
-## Sorting
-|  |
-| ------- |
-| [0049-group-anagrams](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0049-group-anagrams) |
-<!---LeetCode Topics End-->
