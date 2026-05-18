@@ -5,14 +5,14 @@ Chào mừng đến với không gian lưu trữ lời giải thuật toán củ
 ## 📊 Thống kê tiến độ LeetCode
 
 <p align="center">
-  <img src="https://img.shields.io/badge/LeetCode-76_/_3934_Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode Total" />
+  <img src="https://img.shields.io/badge/LeetCode-77_/_3934_Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode Total" />
 </p>
 
 ### 📈 Chi tiết các mức độ:
 
-* **🟢 Easy:** `51 / 944`
+* **🟢 Easy:** `52 / 944`
   <br>
-  <img src="https://geps.dev/progress/5.4?width=400&dangerColor=22c55e&warningColor=22c55e&successColor=22c55e" alt="Easy Progress" />
+  <img src="https://geps.dev/progress/5.5?width=400&dangerColor=22c55e&warningColor=22c55e&successColor=22c55e" alt="Easy Progress" />
 
 * **🟡 Medium:** `25 / 2056`
   <br>
@@ -24,27 +24,3 @@ Chào mừng đến với không gian lưu trữ lời giải thuật toán củ
 
 ---
 _Bảng tiến độ hiển thị chi tiết số bài giải thực tế trên hệ thống và được cập nhật tự động bằng sự kiện Push._
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-|  |
-| ------- |
-| [0350-intersection-of-two-arrays-ii](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0350-intersection-of-two-arrays-ii) |
-## Hash Table
-|  |
-| ------- |
-| [0350-intersection-of-two-arrays-ii](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0350-intersection-of-two-arrays-ii) |
-## Two Pointers
-|  |
-| ------- |
-| [0350-intersection-of-two-arrays-ii](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0350-intersection-of-two-arrays-ii) |
-## Binary Search
-|  |
-| ------- |
-| [0350-intersection-of-two-arrays-ii](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0350-intersection-of-two-arrays-ii) |
-## Sorting
-|  |
-| ------- |
-| [0350-intersection-of-two-arrays-ii](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0350-intersection-of-two-arrays-ii) |
-<!---LeetCode Topics End-->
