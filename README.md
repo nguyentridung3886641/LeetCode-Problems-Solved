@@ -30,10 +30,12 @@ _Bảng tiến độ hiển thị chi tiết số bài giải thực tế trên 
 ## Hash Table
 |  |
 | ------- |
+| [0383-ransom-note](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0389-find-the-difference) |
 ## String
 |  |
 | ------- |
+| [0383-ransom-note](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0389-find-the-difference) |
 ## Bit Manipulation
 |  |
@@ -43,4 +45,8 @@ _Bảng tiến độ hiển thị chi tiết số bài giải thực tế trên 
 |  |
 | ------- |
 | [0389-find-the-difference](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0389-find-the-difference) |
+## Counting
+|  |
+| ------- |
+| [0383-ransom-note](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0383-ransom-note) |
 <!---LeetCode Topics End-->
