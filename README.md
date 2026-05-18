@@ -5,18 +5,18 @@ Chào mừng đến với không gian lưu trữ lời giải thuật toán củ
 ## 📊 Thống kê tiến độ LeetCode
 
 <p align="center">
-  <img src="https://img.shields.io/badge/LeetCode-56_/_3934_Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode Total" />
+  <img src="https://img.shields.io/badge/LeetCode-64_/_3934_Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode Total" />
 </p>
 
 ### 📈 Chi tiết các mức độ:
 
-* **🟢 Easy:** `41 / 944`
+* **🟢 Easy:** `44 / 944`
   <br>
-  <img src="https://geps.dev/progress/4.3?width=400&dangerColor=22c55e&warningColor=22c55e&successColor=22c55e" alt="Easy Progress" />
+  <img src="https://geps.dev/progress/4.7?width=400&dangerColor=22c55e&warningColor=22c55e&successColor=22c55e" alt="Easy Progress" />
 
-* **🟡 Medium:** `15 / 2056`
+* **🟡 Medium:** `20 / 2056`
   <br>
-  <img src="https://geps.dev/progress/0.7?width=400&dangerColor=eab308&warningColor=eab308&successColor=eab308" alt="Medium Progress" />
+  <img src="https://geps.dev/progress/1.0?width=400&dangerColor=eab308&warningColor=eab308&successColor=eab308" alt="Medium Progress" />
 
 * **🔴 Hard:** `0 / 934`
   <br>
@@ -24,57 +24,3 @@ Chào mừng đến với không gian lưu trữ lời giải thuật toán củ
 
 ---
 _Bảng tiến độ hiển thị chi tiết số bài giải thực tế trên hệ thống và được cập nhật tự động bằng sự kiện Push._
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Tree
-|  |
-| ------- |
-| [0173-binary-search-tree-iterator](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0173-binary-search-tree-iterator) |
-| [0450-delete-node-in-a-bst](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0450-delete-node-in-a-bst) |
-## Binary Search Tree
-|  |
-| ------- |
-| [0167-two-sum-ii-input-array-is-sorted](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0167-two-sum-ii-input-array-is-sorted) |
-| [0173-binary-search-tree-iterator](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0173-binary-search-tree-iterator) |
-| [0450-delete-node-in-a-bst](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0450-delete-node-in-a-bst) |
-## Binary Tree
-|  |
-| ------- |
-| [0173-binary-search-tree-iterator](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0173-binary-search-tree-iterator) |
-| [0450-delete-node-in-a-bst](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0450-delete-node-in-a-bst) |
-## Stack
-|  |
-| ------- |
-| [0173-binary-search-tree-iterator](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0173-binary-search-tree-iterator) |
-| [0225-implement-stack-using-queues](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0225-implement-stack-using-queues) |
-## Design
-|  |
-| ------- |
-| [0173-binary-search-tree-iterator](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0173-binary-search-tree-iterator) |
-| [0225-implement-stack-using-queues](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0225-implement-stack-using-queues) |
-## Queue
-|  |
-| ------- |
-| [0225-implement-stack-using-queues](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0225-implement-stack-using-queues) |
-## Iterator
-|  |
-| ------- |
-| [0173-binary-search-tree-iterator](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0173-binary-search-tree-iterator) |
-## Array
-|  |
-| ------- |
-| [0167-two-sum-ii-input-array-is-sorted](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0167-two-sum-ii-input-array-is-sorted) |
-## Two Pointers
-|  |
-| ------- |
-| [0167-two-sum-ii-input-array-is-sorted](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0167-two-sum-ii-input-array-is-sorted) |
-## String
-|  |
-| ------- |
-| [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
-## Sliding Window
-|  |
-| ------- |
-| [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
-<!---LeetCode Topics End-->
