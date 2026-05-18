@@ -30,23 +30,28 @@ _Bảng tiến độ hiển thị chi tiết số bài giải thực tế trên 
 ## Linked List
 |  |
 | ------- |
+| [0705-design-hashset](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0706-design-hashmap) |
 | [0707-design-linked-list](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0707-design-linked-list) |
 ## Design
 |  |
 | ------- |
+| [0705-design-hashset](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0706-design-hashmap) |
 | [0707-design-linked-list](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0707-design-linked-list) |
 ## Array
 |  |
 | ------- |
+| [0705-design-hashset](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0706-design-hashmap) |
 ## Hash Table
 |  |
 | ------- |
+| [0705-design-hashset](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0706-design-hashmap) |
 ## Hash Function
 |  |
 | ------- |
+| [0705-design-hashset](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0706-design-hashmap) |
 <!---LeetCode Topics End-->
