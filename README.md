@@ -63,4 +63,13 @@ _Bảng tiến độ hiển thị chi tiết số bài giải thực tế trên 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0001-two-sum) |
+| [0424-longest-repeating-character-replacement](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0424-longest-repeating-character-replacement) |
+## String
+|  |
+| ------- |
+| [0424-longest-repeating-character-replacement](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0424-longest-repeating-character-replacement) |
+## Sliding Window
+|  |
+| ------- |
+| [0424-longest-repeating-character-replacement](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0424-longest-repeating-character-replacement) |
 <!---LeetCode Topics End-->
