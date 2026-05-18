@@ -49,4 +49,12 @@ _Bảng tiến độ hiển thị chi tiết số bài giải thực tế trên 
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0383-ransom-note) |
+## Array
+|  |
+| ------- |
+| [1929-concatenation-of-array](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/1929-concatenation-of-array) |
+## Simulation
+|  |
+| ------- |
+| [1929-concatenation-of-array](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/1929-concatenation-of-array) |
 <!---LeetCode Topics End-->
