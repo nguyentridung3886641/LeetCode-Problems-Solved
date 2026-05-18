@@ -51,6 +51,7 @@ _Bảng tiến độ hiển thị chi tiết số bài giải thực tế trên 
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0033-search-in-rotated-sorted-array) |
 | [0075-sort-colors](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0075-sort-colors) |
+| [0912-sort-an-array](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0912-sort-an-array) |
 | [1122-relative-sort-array](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/1122-relative-sort-array) |
 ## Binary Search
 |  |
@@ -64,9 +65,31 @@ _Bảng tiến độ hiển thị chi tiết số bài giải thực tế trên 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0075-sort-colors) |
+| [0912-sort-an-array](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0912-sort-an-array) |
 | [1122-relative-sort-array](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/1122-relative-sort-array) |
 ## Counting Sort
 |  |
 | ------- |
+| [0912-sort-an-array](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0912-sort-an-array) |
 | [1122-relative-sort-array](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/1122-relative-sort-array) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0912-sort-an-array) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0912-sort-an-array) |
+## Merge Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0912-sort-an-array) |
+## Bucket Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
