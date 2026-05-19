@@ -24,3 +24,23 @@ Chào mừng đến với không gian lưu trữ lời giải thuật toán củ
 
 ---
 _Bảng tiến độ hiển thị chi tiết số bài giải thực tế trên hệ thống và được cập nhật tự động bằng sự kiện Push._
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Tree
+|  |
+| ------- |
+| [0226-invert-binary-tree](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0226-invert-binary-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0226-invert-binary-tree](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0226-invert-binary-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0226-invert-binary-tree](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0226-invert-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0226-invert-binary-tree](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0226-invert-binary-tree) |
+<!---LeetCode Topics End-->
