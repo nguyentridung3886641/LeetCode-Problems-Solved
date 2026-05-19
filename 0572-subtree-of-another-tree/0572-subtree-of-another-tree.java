@@ -6,10 +6,7 @@ class Solution {
             || isSubtree(root.right, subRoot);
     }
     public boolean isSameTree(TreeNode q, TreeNode p) {
-        if (q == null && p != null || q != null && p == null) return false;
-        if (q == null && p == null) return true;
-        if (isSameTree(q.left, p.left) == false) return false;
-        if (isSameTree(q.right, p.right) == false) return false;
-        return q.val == p.val;
+        if (p == null || q == null) return p == q;
+        return (p.val == q.val) && isSameTree(p.left, q.left) && isSameTree(p.right, q.right);
     }
 }
