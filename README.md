@@ -5,14 +5,14 @@ Chào mừng đến với không gian lưu trữ lời giải thuật toán củ
 ## 📊 Thống kê tiến độ LeetCode
 
 <p align="center">
-  <img src="https://img.shields.io/badge/LeetCode-89_/_3934_Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode Total" />
+  <img src="https://img.shields.io/badge/LeetCode-90_/_3934_Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode Total" />
 </p>
 
 ### 📈 Chi tiết các mức độ:
 
-* **🟢 Easy:** `57 / 944`
+* **🟢 Easy:** `58 / 944`
   <br>
-  <img src="https://geps.dev/progress/6.0?width=400&dangerColor=22c55e&warningColor=22c55e&successColor=22c55e" alt="Easy Progress" />
+  <img src="https://geps.dev/progress/6.1?width=400&dangerColor=22c55e&warningColor=22c55e&successColor=22c55e" alt="Easy Progress" />
 
 * **🟡 Medium:** `32 / 2056`
   <br>
@@ -24,23 +24,3 @@ Chào mừng đến với không gian lưu trữ lời giải thuật toán củ
 
 ---
 _Bảng tiến độ hiển thị chi tiết số bài giải thực tế trên hệ thống và được cập nhật tự động bằng sự kiện Push._
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Tree
-|  |
-| ------- |
-| [0226-invert-binary-tree](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0226-invert-binary-tree) |
-## Depth-First Search
-|  |
-| ------- |
-| [0226-invert-binary-tree](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0226-invert-binary-tree) |
-## Breadth-First Search
-|  |
-| ------- |
-| [0226-invert-binary-tree](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0226-invert-binary-tree) |
-## Binary Tree
-|  |
-| ------- |
-| [0226-invert-binary-tree](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0226-invert-binary-tree) |
-<!---LeetCode Topics End-->
