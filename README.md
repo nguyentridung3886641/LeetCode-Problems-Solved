@@ -24,3 +24,23 @@ Chào mừng đến với không gian lưu trữ lời giải thuật toán củ
 
 ---
 _Bảng tiến độ hiển thị chi tiết số bài giải thực tế trên hệ thống và được cập nhật tự động bằng sự kiện Push._
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Tree
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0104-maximum-depth-of-binary-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0104-maximum-depth-of-binary-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0104-maximum-depth-of-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0104-maximum-depth-of-binary-tree) |
+<!---LeetCode Topics End-->
