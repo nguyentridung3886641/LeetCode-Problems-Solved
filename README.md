@@ -1,21 +1,26 @@
 # 🏆 Hành trình chinh phục 4000 bài LeetCode
 
-Chào mừng đến với không gian lưu trữ lời giải thuật toán của tôi! Hệ thống tự động đồng bộ tiến độ từ LeetCode sang GitHub.
-
----
+Chào mừng đến với không gian lưu trữ lời giải thuật toán của tôi! Hệ thống tự động đồng bộ từ LeetCode sang GitHub.
 
 ## 📊 Thống kê tiến độ LeetCode
 
 <p align="center">
-  <a href="https://leetcode.com/u/NguyenTriDung/">
-    <img src="https://leetcode-api-fwd.vercel.app/api?username=NguyenTriDung&theme=dark&v=2026" alt="LeetCode Stats" />
-  </a>
+  <img src="https://img.shields.io/badge/LeetCode-94_/_3934_Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode Total" />
 </p>
 
+### 📈 Chi tiết các mức độ:
+
+* **🟢 Easy:** `62 / 944`
+  <br>
+  <img src="https://geps.dev/progress/6.6?width=400&dangerColor=22c55e&warningColor=22c55e&successColor=22c55e" alt="Easy Progress" />
+
+* **🟡 Medium:** `32 / 2056`
+  <br>
+  <img src="https://geps.dev/progress/1.6?width=400&dangerColor=eab308&warningColor=eab308&successColor=eab308" alt="Medium Progress" />
+
+* **🔴 Hard:** `0 / 934`
+  <br>
+  <img src="https://geps.dev/progress/0.0?width=400&dangerColor=ef4444&warningColor=ef4444&successColor=ef4444" alt="Hard Progress" />
+
 ---
-
-### 🚀 Mục tiêu & Kế hoạch hành động:
-* **Tần suất giữ liên tục:** Giải đều đặn 4 bài LeetCode mỗi ngày (Dành 5 - 6 tiếng/ngày).
-* **Lộ trình:** Hoàn thành mục tiêu 4000 bài LeetCode trong vòng 3 năm tới để hướng tới vị trí Mid-level Engineer tại các tập đoàn BigTech ngay khi tốt nghiệp.
-
-_Bảng tiến độ hiển thị chi tiết số bài giải thực tế trên hệ thống và được cập nhật tự động bằng sự kiện API Real-time._
+_Bảng tiến độ hiển thị chi tiết số bài giải thực tế trên hệ thống và được cập nhật tự động bằng sự kiện Push._
