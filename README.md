@@ -5,7 +5,9 @@ Chào mừng đến với không gian lưu trữ lời giải thuật toán củ
 ## 📊 Thống kê tiến độ LeetCode
 
 <p align="center">
-  <img src="https://img.shields.io/badge/LeetCode-94_/_3934_Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode Total" />
+  <a href="https://leetcode.com/u/NguyenTriDung/">
+    <img src="https://img.shields.io/badge/LeetCode-nxhieu3102-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode Profile" />
+  </a>
 </p>
 
 ### 📈 Chi tiết các mức độ:
