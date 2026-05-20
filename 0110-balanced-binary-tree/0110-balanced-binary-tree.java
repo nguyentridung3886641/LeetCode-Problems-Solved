@@ -7,9 +7,10 @@ class Solution {
         if (node == null) return 0;
 
         int left = maxMinDepth(node.left);
+        if (left == - 1) return -1;
+        
         int right = maxMinDepth(node.right);
-
-        if (left == - 1 || right == - 1) return -1;
+        if (right == -1) return -1;
 
         return (Math.abs(left - right) <= 1) ? 1 + Math.max(left, right) : -1;
     }
