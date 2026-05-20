@@ -34,19 +34,3 @@ Chào mừng đến với không gian lưu trữ lời giải thuật toán củ
 * **Lộ trình:** Hoàn thành mục tiêu 4000 bài LeetCode trong vòng 3 năm tới để hướng tới vị trí Mid-level Engineer tại các tập đoàn BigTech ngay khi tốt nghiệp.
 
 _Bảng tiến độ hiển thị chi tiết số bài giải thực tế trên hệ thống và được cập nhật tự động bằng sự kiện Push._
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Tree
-|  |
-| ------- |
-| [0110-balanced-binary-tree](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0110-balanced-binary-tree) |
-## Depth-First Search
-|  |
-| ------- |
-| [0110-balanced-binary-tree](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0110-balanced-binary-tree) |
-## Binary Tree
-|  |
-| ------- |
-| [0110-balanced-binary-tree](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0110-balanced-binary-tree) |
-<!---LeetCode Topics End-->
