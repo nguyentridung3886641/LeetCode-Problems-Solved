@@ -15,10 +15,12 @@
 ## Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0098-validate-binary-search-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0098-validate-binary-search-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -27,5 +29,10 @@
 ## Binary Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0098-validate-binary-search-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/1448-count-good-nodes-in-binary-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0098-validate-binary-search-tree](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0098-validate-binary-search-tree) |
 <!---LeetCode Topics End-->
