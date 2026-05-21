@@ -19,3 +19,23 @@ Chào mừng đến với không gian lưu trữ lời giải thuật toán củ
 * **Lộ trình:** Hoàn thành mục tiêu 4000 bài LeetCode trong vòng 3 năm tới để hướng tới vị trí Mid-level Engineer tại các tập đoàn BigTech ngay khi tốt nghiệp.
 
 _Bảng tiến độ hiển thị chi tiết số bài giải thực tế trên hệ thống và được cập nhật tự động bằng sự kiện API Real-time._
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Tree
+|  |
+| ------- |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+<!---LeetCode Topics End-->
