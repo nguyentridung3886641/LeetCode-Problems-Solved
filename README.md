@@ -1,7 +1,3 @@
-# 🏆 Hành trình chinh phục 4000 bài LeetCode
-
-Chào mừng đến với không gian lưu trữ lời giải thuật toán của tôi! Hệ thống tự động đồng bộ tiến độ từ LeetCode sang GitHub.
-
 ---
 
 ## 📊 Thống kê tiến độ LeetCode
@@ -13,35 +9,3 @@ Chào mừng đến với không gian lưu trữ lời giải thuật toán củ
 </p>
 
 ---
-
-### 🚀 Mục tiêu & Kế hoạch hành động:
-* **Tần suất giữ liên tục:** Giải đều đặn 4 bài LeetCode mỗi ngày (Dành 5 - 6 tiếng/ngày).
-* **Lộ trình:** Hoàn thành mục tiêu 4000 bài LeetCode trong vòng 3 năm tới để hướng tới vị trí Mid-level Engineer tại các tập đoàn BigTech ngay khi tốt nghiệp.
-
-_Bảng tiến độ hiển thị chi tiết số bài giải thực tế trên hệ thống và được cập nhật tự động bằng sự kiện API Real-time._
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Tree
-|  |
-| ------- |
-| [0102-binary-tree-level-order-traversal](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0102-binary-tree-level-order-traversal) |
-| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
-## Depth-First Search
-|  |
-| ------- |
-| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
-## Binary Search Tree
-|  |
-| ------- |
-| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
-## Binary Tree
-|  |
-| ------- |
-| [0102-binary-tree-level-order-traversal](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0102-binary-tree-level-order-traversal) |
-| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
-## Breadth-First Search
-|  |
-| ------- |
-| [0102-binary-tree-level-order-traversal](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0102-binary-tree-level-order-traversal) |
-<!---LeetCode Topics End-->
