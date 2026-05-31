@@ -46,6 +46,7 @@
 ## Array
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0033-search-in-rotated-sorted-array) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -79,4 +80,8 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0003-longest-substring-without-repeating-characters) |
+## Two Pointers
+|  |
+| ------- |
+| [0027-remove-element](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0027-remove-element) |
 <!---LeetCode Topics End-->
