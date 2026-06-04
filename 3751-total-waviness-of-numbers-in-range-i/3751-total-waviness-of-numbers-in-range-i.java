@@ -1,20 +1,29 @@
 class Solution {
-    private static int MAX = 100001;
-    private static int[] dp = new int[MAX], pref = new int[MAX];
 
-    static {
-        for (int i = 100; i < MAX; i++) {
-            int r = i % 10;
-            int m = (i / 10) % 10;
-            int l = (i / 100) % 10;
+    private int waviness(int x) {
+        String s = Integer.toString(x);
 
-            int isWave = m > Math.max(l, r) || m < Math.min(l, r) ? 1 : 0;
-            dp[i] = dp[i / 10] + isWave;
-            pref[i] = pref[i - 1] + dp[i];
+        int cnt = 0;
+
+        for (int i = 1; i < s.length() - 1; i++) {
+            char cur = s.charAt(i);
+
+            if ((cur > s.charAt(i - 1) && cur > s.charAt(i + 1)) ||
+                (cur < s.charAt(i - 1) && cur < s.charAt(i + 1))) {
+                cnt++;
+            }
         }
+
+        return cnt;
     }
 
-    public int totalWaviness(int A, int B) {
-        return pref[B] - pref[A - 1];
+    public int totalWaviness(int num1, int num2) {
+        int ans = 0;
+
+        for (int x = num1; x <= num2; x++) {
+            ans += waviness(x);
+        }
+
+        return ans;
     }
 }
