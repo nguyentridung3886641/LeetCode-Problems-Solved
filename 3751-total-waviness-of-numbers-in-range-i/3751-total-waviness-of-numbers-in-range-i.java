@@ -1,100 +1,108 @@
 class Solution {
-
-    private String s;
+    // Cấp phát tĩnh một lần duy nhất trên Heap khi khởi tạo Object
+    private final long[][][] memo_cnt = new long[20][11][11];
+    private final long[][][] memo_sum = new long[20][11][11];
+    private final int[][][] memo_cnt_id = new int[20][11][11];
+    private final int[][][] memo_sum_id = new int[20][11][11];
+    
+    private int cnt_call_id = 0;
+    private int sum_call_id = 0;
+    
+    private final int[] digits = new int[20];
     private int n;
-    private long[][][] memo_cnt;
-    private long[][][] memo_sum;
 
     public int totalWaviness(int num1, int num2) {
         return (int) (solve(num2) - solve(num1 - 1));
     }
 
-    // calculate the sum of the volatility values of all numbers in the range [0, num]
     private long solve(long num) {
-        // if the number is less than 3, the fluctuation value is 0
         if (num < 100) {
             return 0L;
         }
-        s = Long.toString(num);
-        n = s.length();
-
-        // memoized search uses two independent arrays
-        // memo_cnt[pos][x][y]: the number of valid filling schemes where the current position is pos, and the previous two positions are x, y
-        memo_cnt = new long[16][10][10];
-        // memo_sum[pos][x][y]: the fluctuation value when the current position is pos and the two left digits are x and y
-        memo_sum = new long[16][10][10];
-        for (int i = 0; i < 16; i++) {
-            for (int j = 0; j < 10; j++) {
-                Arrays.fill(memo_cnt[i][j], -1);
-                Arrays.fill(memo_sum[i][j], -1);
-            }
+        
+        // Tối ưu 1: Trích xuất chữ số bằng toán học thuần túy thay vì dùng String
+        n = 0;
+        long tempNum = num;
+        int[] tempDigits = new int[20];
+        while (tempNum > 0) {
+            tempDigits[n++] = (int) (tempNum % 10);
+            tempNum /= 10;
+        }
+        for (int i = 0; i < n; i++) {
+            digits[i] = tempDigits[n - 1 - i];
         }
 
-        long[] result = dfs(0, -1, -1, true, true);
-        return result[1];
+        // Tối ưu 2: Tăng ID cuộc gọi để xóa cache trong O(1), không dùng vòng lặp xóa mảng
+        cnt_call_id++;
+        sum_call_id++;
+
+        // Trạng thái bắt đầu: pos=0, prev=10, curr=10 (10 đại diện cho trạng thái trống)
+        return getSum(0, 10, 10, true, true);
     }
 
-    private long[] dfs(
-        int pos,
-        int prev,
-        int curr,
-        boolean isLimit,
-        boolean isLeading
-    ) {
-        // end position
+    // Luồng 1: Đếm số lượng cấu hình hợp lệ (Trả về kiểu primitive long, không sinh Object)
+    private long getCnt(int pos, int prev, int curr, boolean isLimit, boolean isLeading) {
         if (pos == n) {
-            return new long[] { 1L, 0L };
+            return 1L;
         }
-        // only use memoization when not limited by an upper bound and not containing leading zeros
-        if (!isLimit && !isLeading && prev >= 0 && curr >= 0) {
-            if (memo_cnt[pos][prev][curr] != -1) {
-                return new long[] {
-                    memo_cnt[pos][prev][curr],
-                    memo_sum[pos][prev][curr],
-                };
-            }
+        
+        // Tối ưu 3: Chỉ kiểm tra ID thay vì Arrays.fill, không cần check số âm nhờ State-Shifting
+        if (!isLimit && !isLeading && memo_cnt_id[pos][prev][curr] == cnt_call_id) {
+            return memo_cnt[pos][prev][curr];
         }
 
-        // calculate the number of solutions and volatility value under current conditions
-        long cnt = 0;
-        long sum = 0;
-        int up = isLimit ? (s.charAt(pos) - '0') : 9;
-        for (int digit = 0; digit <= up; ++digit) {
-            boolean newLeading = isLeading && (digit == 0);
-            // the previous number is updated to curr
-            int newPrev = curr;
-            // the current number is updated to digit
-            int newCurr = newLeading ? -1 : digit;
-            long[] sub = dfs(
-                pos + 1,
-                newPrev,
-                newCurr,
-                isLimit && (digit == up),
-                newLeading
-            );
-            long subCnt = sub[0];
-            long subSum = sub[1];
-            // only calculate the volatility value when there are no leading zeros
-            if (!newLeading && prev >= 0 && curr >= 0) {
-                // when the value is a peak or a trough, update the current fluctuation value
-                if (
-                    (prev < curr && curr > digit) ||
-                    (prev > curr && curr < digit)
-                ) {
-                    sum += subCnt;
+        int up = isLimit ? digits[pos] : 9;
+        long ans = 0;
+
+        for (int d = 0; d <= up; d++) {
+            boolean nextLeading = isLeading && (d == 0);
+            int nextPrev = nextLeading ? 10 : (isLeading ? 10 : curr);
+            int nextCurr = nextLeading ? 10 : d;
+
+            ans += getCnt(pos + 1, nextPrev, nextCurr, isLimit && (d == up), nextLeading);
+        }
+
+        if (!isLimit && !isLeading) {
+            memo_cnt[pos][prev][curr] = ans;
+            memo_cnt_id[pos][prev][curr] = cnt_call_id;
+        }
+        return ans;
+    }
+
+    // Luồng 2: Tính tổng độ biến động (Simultaneous DP kết hợp kéo dữ liệu từ Luồng 1)
+    private long getSum(int pos, int prev, int curr, boolean isLimit, boolean isLeading) {
+        if (pos == n) {
+            return 0L;
+        }
+
+        if (!isLimit && !isLeading && memo_sum_id[pos][prev][curr] == sum_call_id) {
+            return memo_sum[pos][prev][curr];
+        }
+
+        int up = isLimit ? digits[pos] : 9;
+        long ans = 0;
+
+        for (int d = 0; d <= up; d++) {
+            boolean nextLeading = isLeading && (d == 0);
+            int nextPrev = nextLeading ? 10 : (isLeading ? 10 : curr);
+            int nextCurr = nextLeading ? 10 : d;
+
+            // Tích lũy tổng từ bài toán con
+            ans += getSum(pos + 1, nextPrev, nextCurr, isLimit && (d == up), nextLeading);
+
+            // Kiểm tra điểm cực đại / cực tiểu của sóng
+            if (!nextLeading && prev != 10 && curr != 10) {
+                if ((prev < curr && curr > d) || (prev > curr && curr < d)) {
+                    // Gọi Luồng 1 (O(1) từ Cache) để biết điểm này được nhân bản bao nhiêu lần
+                    ans += getCnt(pos + 1, nextPrev, nextCurr, isLimit && (d == up), nextLeading);
                 }
             }
-
-            cnt += subCnt;
-            sum += subSum;
         }
 
-        if (!isLimit && !isLeading && prev >= 0 && curr >= 0) {
-            // update the memoization array
-            memo_cnt[pos][prev][curr] = cnt;
-            memo_sum[pos][prev][curr] = sum;
+        if (!isLimit && !isLeading) {
+            memo_sum[pos][prev][curr] = ans;
+            memo_sum_id[pos][prev][curr] = sum_call_id;
         }
-
-        return new long[] { cnt, sum };
+        return ans;
     }
 }
