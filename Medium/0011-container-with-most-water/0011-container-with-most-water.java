@@ -5,13 +5,11 @@ class Solution {
         int i = 0, j = length - 1;
 
         while (i < j) {
-            maxVol = Math.max(maxVol ,(j - i) * Math.min(height[i], height[j]));
-            if (height[i] < height[j]) {
-                i++;
-            }
-            else {
-                j--;
-            }
+            int min = Math.min(height[i], height[j]);
+            maxVol = Math.max(maxVol, min * (j - i));
+
+            while (i < j && height[i] <= min) i++;
+            while (i < j && height[j] <= min) j--;
         }
         return maxVol;
     }
