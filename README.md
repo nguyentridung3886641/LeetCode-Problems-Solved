@@ -75,6 +75,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0005-longest-palindromic-substring) |
 | [0208-implement-trie-prefix-tree](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0211-design-add-and-search-words-data-structure) |
 ## Design
@@ -94,6 +95,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0088-merge-sorted-array) |
@@ -125,6 +127,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0005-longest-palindromic-substring) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
 ## Enumeration
