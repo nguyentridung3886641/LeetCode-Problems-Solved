@@ -106,6 +106,7 @@
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0189-rotate-array) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/3751-total-waviness-of-numbers-in-range-i) |
