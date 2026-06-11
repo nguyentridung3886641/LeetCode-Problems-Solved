@@ -19,6 +19,7 @@
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/1448-count-good-nodes-in-binary-tree) |
+| [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -26,6 +27,7 @@
 | [0211-design-add-and-search-words-data-structure](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/1448-count-good-nodes-in-binary-tree) |
+| [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -110,6 +112,7 @@
 | [0009-palindrome-number](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0189-rotate-array) |
+| [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
 ## Sorting
