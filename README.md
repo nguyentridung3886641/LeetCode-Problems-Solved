@@ -67,6 +67,7 @@
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/3691-maximum-total-subarray-value-ii) |
+| [3838-weighted-word-mapping](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/3838-weighted-word-mapping) |
 ## Hash Table
 |  |
 | ------- |
@@ -84,6 +85,7 @@
 | [0005-longest-palindromic-substring](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0005-longest-palindromic-substring) |
 | [0208-implement-trie-prefix-tree](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0211-design-add-and-search-words-data-structure) |
+| [3838-weighted-word-mapping](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/3838-weighted-word-mapping) |
 ## Design
 |  |
 | ------- |
@@ -153,6 +155,7 @@
 |  |
 | ------- |
 | [2161-partition-array-according-to-given-pivot](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/2161-partition-array-according-to-given-pivot) |
+| [3838-weighted-word-mapping](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/3838-weighted-word-mapping) |
 ## Segment Tree
 |  |
 | ------- |
