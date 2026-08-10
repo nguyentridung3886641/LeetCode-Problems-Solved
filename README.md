@@ -79,6 +79,7 @@
 |  |
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0190-reverse-bits](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0190-reverse-bits) |
 ## String
 |  |
 | ------- |
@@ -173,6 +174,7 @@
 |  |
 | ------- |
 | [0136-single-number](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0136-single-number) |
+| [0190-reverse-bits](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0190-reverse-bits) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## Linked List
 |  |
