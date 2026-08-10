@@ -123,6 +123,7 @@
 | [0009-palindrome-number](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0189-rotate-array) |
+| [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/3751-total-waviness-of-numbers-in-range-i) |
