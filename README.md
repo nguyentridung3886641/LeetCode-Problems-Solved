@@ -59,6 +59,7 @@
 | [0088-merge-sorted-array](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0088-merge-sorted-array) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0136-single-number](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0189-rotate-array) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
@@ -74,11 +75,13 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0169-majority-element](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0169-majority-element) |
 | [0208-implement-trie-prefix-tree](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0208-implement-trie-prefix-tree) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0169-majority-element](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0191-number-of-1-bits) |
 ## String
@@ -133,6 +136,7 @@
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0169-majority-element) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
@@ -189,4 +193,12 @@
 |  |
 | ------- |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
