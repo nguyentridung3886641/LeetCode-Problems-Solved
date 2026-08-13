@@ -64,6 +64,7 @@
 | [0136-single-number](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0189-rotate-array) |
+| [0219-contains-duplicate-ii](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0219-contains-duplicate-ii) |
 | [0283-move-zeroes](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0283-move-zeroes) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
@@ -81,6 +82,7 @@
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0169-majority-element](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0169-majority-element) |
 | [0208-implement-trie-prefix-tree](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0208-implement-trie-prefix-tree) |
+| [0219-contains-duplicate-ii](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0219-contains-duplicate-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -111,6 +113,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0219-contains-duplicate-ii](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0219-contains-duplicate-ii) |
 ## Two Pointers
 |  |
 | ------- |
