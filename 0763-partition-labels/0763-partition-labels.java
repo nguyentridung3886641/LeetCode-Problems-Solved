@@ -2,6 +2,7 @@ class Solution {
     public List<Integer> partitionLabels(String s) {
         List<Integer> res = new ArrayList<>();
         int[] lastIndex = new int[26];
+        Arrays.fill(lastIndex, -1);
 
         for (int i = 0; i < s.length(); i++) {
             lastIndex[s.charAt(i) - 'a'] = i;
