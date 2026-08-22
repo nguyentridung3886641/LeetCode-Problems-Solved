@@ -62,6 +62,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0033-search-in-rotated-sorted-array) |
 | [0045-jump-game-ii](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0055-jump-game) |
+| [0056-merge-intervals](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0088-merge-sorted-array) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -158,6 +159,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0268-missing-number) |
@@ -237,4 +239,8 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0169-majority-element) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
