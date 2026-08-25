@@ -67,6 +67,7 @@
 | [0088-merge-sorted-array](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0088-merge-sorted-array) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0134-gas-station](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0134-gas-station) |
+| [0135-candy](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0189-rotate-array) |
@@ -178,6 +179,7 @@
 | [0045-jump-game-ii](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0055-jump-game) |
 | [0134-gas-station](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0134-gas-station) |
+| [0135-candy](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0135-candy) |
 | [0435-non-overlapping-intervals](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0435-non-overlapping-intervals) |
 | [0621-task-scheduler](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0621-task-scheduler) |
 | [0763-partition-labels](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0763-partition-labels) |
