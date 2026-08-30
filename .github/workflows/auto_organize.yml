@@ -32,12 +32,18 @@ jobs:
       run: python organize_leetcode.py
       continue-on-error: true # Nếu bot trả về exit 1 (không có file mới) thì bỏ qua bước dưới
 
-    # 4. Nếu bot dời file thành công, GitHub tự động commit và lưu lại
+    # 4. Lưu lại với đúng commit message gốc của LeetHub
     - name: Commit and Push changes
       run: |
         git config --global user.name "github-actions[bot]"
         git config --global user.email "github-actions[bot]@users.noreply.github.com"
+        
+        # 1. Lấy đúng nội dung commit message gốc của LeetHub (chứa Time & Space)
+        ORIGINAL_MSG=$(git log -1 --pretty=%B)
+        
+        # 2. Stage toàn bộ thay đổi sau khi di chuyển thư mục
         git add .
-        # Chỉ commit nếu thực sự có sự thay đổi thư mục
-        git diff-index --quiet HEAD || git commit -m "Automation: Phân loại bài giải LeetCode vào thư mục độ khó"
+        
+        # 3. Commit lại bằng message gốc
+        git diff-index --quiet HEAD || git commit -m "$ORIGINAL_MSG"
         git push
