@@ -80,6 +80,7 @@
 | [0435-non-overlapping-intervals](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0435-non-overlapping-intervals) |
 | [0561-array-partition](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0561-array-partition) |
 | [0621-task-scheduler](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0621-task-scheduler) |
+| [0997-find-the-town-judge](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0997-find-the-town-judge) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/2161-partition-array-according-to-given-pivot) |
@@ -101,6 +102,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0349-intersection-of-two-arrays) |
 | [0621-task-scheduler](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0621-task-scheduler) |
 | [0763-partition-labels](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0763-partition-labels) |
+| [0997-find-the-town-judge](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0997-find-the-town-judge) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -265,4 +267,8 @@
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0561-array-partition) |
+## Graph Theory
+|  |
+| ------- |
+| [0997-find-the-town-judge](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0997-find-the-town-judge) |
 <!---LeetCode Topics End-->
