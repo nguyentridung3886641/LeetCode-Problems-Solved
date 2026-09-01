@@ -1,27 +1,32 @@
 class Solution {
     public int[] nodesBetweenCriticalPoints(ListNode head) {
-        if (head == null || head.next == null || head.next.next == null)
+        ListNode prev = head, cur = head.next;
+        int curIndex = 1, maxDistance = 0, minDistance = 1000000;
+        int firstCritical = 0, lastCritical = -1000000, count = 0;
+
+        if (cur.next == null)
             return new int[]{-1, -1};
 
-        ListNode prev = head, cur = head.next;
-        int curIndex = 1, maxDistance = 0, minDistance = Integer.MAX_VALUE;
-        int firstCritical = -1, lastCritical = -1;
-
         while (cur.next != null) {
-            if (cur.val > prev.val && cur.val > cur.next.val ||
-                cur.val < prev.val && cur.val < cur.next.val) {
-                if (firstCritical == -1)
+            if (cur.val > prev.val && cur.val > cur.next.val) {
+                if (firstCritical == 0)
                     firstCritical = curIndex;
-                if (lastCritical != -1)
-                    minDistance = Math.min(minDistance, curIndex - lastCritical);
+                minDistance = Math.min(minDistance, curIndex - lastCritical);
                 lastCritical = curIndex;
+                ++count;
+            } else if (cur.val < prev.val && cur.val < cur.next.val) {
+                if (firstCritical == 0)
+                    firstCritical = curIndex;
+                minDistance = Math.min(minDistance, curIndex - lastCritical);
+                lastCritical = curIndex;
+                ++count;
             }
             prev = prev.next;
             cur = cur.next;
             ++curIndex;
         }
 
-        if (firstCritical == -1 || firstCritical == lastCritical)
+        if (count < 2)
             return new int[]{-1, -1};
 
         maxDistance = lastCritical - firstCritical;
