@@ -27,6 +27,7 @@
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0098-validate-binary-search-tree) |
+| [0200-number-of-islands](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0200-number-of-islands) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0733-flood-fill](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0733-flood-fill) |
@@ -36,6 +37,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0733-flood-fill) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -76,6 +78,7 @@
 | [0169-majority-element](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0189-rotate-array) |
+| [0200-number-of-islands](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0200-number-of-islands) |
 | [0219-contains-duplicate-ii](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0283-move-zeroes) |
@@ -285,6 +288,11 @@
 ## Matrix
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0733-flood-fill) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+## Union-Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
