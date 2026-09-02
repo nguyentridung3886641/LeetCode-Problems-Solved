@@ -1,34 +1,20 @@
-import java.util.LinkedList;
-import java.util.Queue;
-
 class Solution {
     public int[][] floodFill(int[][] image, int sr, int sc, int color) {
-        int original = image[sr][sc];
-        if (original == color) return image;
-        int m = image.length, n = image[0].length;
-
-        Queue<int[]> queue = new LinkedList<>();
-        queue.add(new int[]{sr, sc});
-        image[sr][sc] = color;
-
-        int[] dr = {-1, 1, 0, 0};
-        int[] dc = {0, 0, -1, 1};
-
-        while (!queue.isEmpty()) {
-            int[] curPixel = queue.poll();
-            int r = curPixel[0];
-            int c = curPixel[1];
-            
-            for (int i = 0; i < 4; i++) {
-                int nr = r + dr[i];
-                int nc = c + dc[i];
-
-                if ((nr >= 0 && nr < m && nc >= 0 && nc < n) && image[nr][nc] == original) {
-                    image[nr][nc] = color;
-                    queue.add(new int[]{nr, nc});
-                }
-            }
-        }
+        int rowLimit = image.length - 1, colLimit = image[0].length - 1;
+        int oldColor = image[sr][sc];
+        if (oldColor == color) return image;
+        dfs(sr, sc, colLimit, rowLimit, oldColor, color, image);
         return image;
+    }
+    public void dfs(int row, int col, int colLimit, int rowLimit, int oldColor, int color, int[][] image) {
+        if (row > rowLimit || col > colLimit || col < 0 || row < 0) return;
+        if (image[row][col] != oldColor) return;
+        else {
+            image[row][col] = color;
+        }
+        dfs(row + 1, col, colLimit, rowLimit, oldColor, color, image);
+        dfs(row - 1, col, colLimit, rowLimit, oldColor, color, image);
+        dfs(row, col + 1, colLimit, rowLimit, oldColor, color, image);
+        dfs(row, col - 1, colLimit, rowLimit, oldColor, color, image);
     }
 }
