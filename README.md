@@ -99,6 +99,7 @@
 | [3691-maximum-total-subarray-value-ii](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/3691-maximum-total-subarray-value-ii) |
 | [3838-weighted-word-mapping](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/3838-weighted-word-mapping) |
 | [3875-construct-uniform-parity-array-i](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/3875-construct-uniform-parity-array-i) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -176,6 +177,7 @@
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/3875-construct-uniform-parity-array-i) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Sorting
 |  |
 | ------- |
