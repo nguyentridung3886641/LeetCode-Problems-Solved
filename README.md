@@ -39,6 +39,7 @@
 | ------- |
 | [0200-number-of-islands](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0733-flood-fill) |
+| [0994-rotting-oranges](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0994-rotting-oranges) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Binary Tree
@@ -87,6 +88,7 @@
 | [0561-array-partition](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0561-array-partition) |
 | [0621-task-scheduler](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0621-task-scheduler) |
 | [0733-flood-fill](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0733-flood-fill) |
+| [0994-rotting-oranges](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0994-rotting-oranges) |
 | [0997-find-the-town-judge](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0997-find-the-town-judge) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
@@ -292,6 +294,7 @@
 | ------- |
 | [0200-number-of-islands](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0733-flood-fill) |
+| [0994-rotting-oranges](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0994-rotting-oranges) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Union-Find
 |  |
