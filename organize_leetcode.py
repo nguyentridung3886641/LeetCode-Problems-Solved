@@ -2,14 +2,10 @@ import os
 import shutil
 
 TARGET_DIRS = {
-    "Easy": "./Easy",
-    "Medium": "./Medium",
-    "Hard": "./Hard"
+    "Easy": "Easy",
+    "Medium": "Medium",
+    "Hard": "Hard"
 }
-
-for folder in TARGET_DIRS.values():
-    if not os.path.exists(folder):
-        os.makedirs(folder)
 
 def get_difficulty_from_readme(readme_path):
     try:
@@ -29,7 +25,13 @@ def clean_and_organize():
     print("🚀 Bot đang tiến hành quét và dọn dẹp thư mục gốc...")
     has_changed = False
     
+    # Tạo các folder Easy, Medium, Hard nếu chưa có
+    for folder in TARGET_DIRS.values():
+        if not os.path.exists(folder):
+            os.makedirs(folder)
+
     for item in os.listdir('.'):
+        # Bỏ qua các folder đích và các file ẩn (.git, .github)
         if os.path.isdir(item) and item not in TARGET_DIRS.values() and not item.startswith('.'):
             readme_path = os.path.join(item, "README.md")
             if os.path.exists(readme_path):
@@ -50,6 +52,5 @@ def clean_and_organize():
 
 if __name__ == "__main__":
     changed = clean_and_organize()
-    # Trả về mã lỗi 0 nếu có thay đổi để GitHub Action biết đường commit
     if not changed:
-        exit(1) # Thoát nếu không có gì thay đổi để tránh commit rác
+        exit(1)
