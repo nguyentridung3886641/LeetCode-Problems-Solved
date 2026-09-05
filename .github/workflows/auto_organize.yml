@@ -3,47 +3,64 @@ name: Auto Organize LeetCode Files
 on:
   push:
     branches:
-      - main # Hoặc master tùy theo nhánh chính của repo bạn
+      - main
 
 jobs:
   organize:
     runs-on: ubuntu-latest
-    
-    # Cấp quyền cho GitHub Actions được phép ghi và push code ngược lại repo
     permissions:
       contents: write
 
     steps:
-    # 1. Tải code từ repo về máy ảo của GitHub
+    # 1. Tải toàn bộ lịch sử git về
     - name: Checkout repository
       uses: actions/checkout@v4
       with:
         fetch-depth: 0
 
-    # 2. Cài đặt môi trường Python
+    # 2. Bỏ qua nếu commit này do chính github-actions[bot] tạo ra (tránh loop)
+    - name: Check commit author
+      id: check_author
+      run: |
+        AUTHOR=$(git log -1 --pretty=format:'%an')
+        if [ "$AUTHOR" = "github-actions[bot]" ]; then
+          echo "Skip vì commit này vừa được tạo bởi bot."
+          echo "skip=true" >> $GITHUB_OUTPUT
+        else
+          echo "skip=false" >> $GITHUB_OUTPUT
+        fi
+
+    # 3. Cài đặt Python
     - name: Set up Python
+      if: steps.check_author.outputs.skip == 'false'
       uses: actions/setup-python@v5
       with:
         python-version: '3.x'
 
-    # 3. Gọi con bot dậy để nó dọn dẹp thư mục
+    # 4. Chạy script dọn dẹp thư mục
     - name: Run Organize Bot
-      id: run_bot
+      if: steps.check_author.outputs.skip == 'false'
       run: python organize_leetcode.py
-      continue-on-error: true # Nếu bot trả về exit 1 (không có file mới) thì bỏ qua bước dưới
+      continue-on-error: true
 
-    # 4. Lưu lại với đúng commit message gốc của LeetHub
+    # 5. Commit và Push giữ nguyên 100% commit message gốc
     - name: Commit and Push changes
+      if: steps.check_author.outputs.skip == 'false'
       run: |
         git config --global user.name "github-actions[bot]"
         git config --global user.email "github-actions[bot]@users.noreply.github.com"
         
-        # 1. Lấy đúng nội dung commit message gốc của LeetHub (chứa Time & Space)
-        ORIGINAL_MSG=$(git log -1 --pretty=%B)
+        # 1. Trích xuất toàn bộ nội dung commit message gốc (kể cả multiline) vào file tạm
+        git log -1 --pretty=format:%B > /tmp/original_commit_msg.txt
         
-        # 2. Stage toàn bộ thay đổi sau khi di chuyển thư mục
+        # 2. Stage toàn bộ thay đổi
         git add .
         
-        # 3. Commit lại bằng message gốc
-        git diff-index --quiet HEAD || git commit -m "$ORIGINAL_MSG"
-        git push
+        # 3. Kiểm tra xem có thay đổi nào cần commit không
+        if ! git diff-index --quiet HEAD; then
+          # Commit bằng nội dung đọc từ file để giữ nguyên toàn bộ Runtime/Memory/Time Complexity
+          git commit -F /tmp/original_commit_msg.txt
+          git push
+        else
+          echo "Không có file nào cần di chuyển."
+        fi
