@@ -36,6 +36,7 @@
 | [0802-find-eventual-safe-states](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0802-find-eventual-safe-states) |
 | [0851-loud-and-rich](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0851-loud-and-rich) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/1448-count-good-nodes-in-binary-tree) |
+| [2360-longest-cycle-in-a-graph](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/2360-longest-cycle-in-a-graph) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## Breadth-First Search
@@ -48,6 +49,7 @@
 | [0802-find-eventual-safe-states](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0802-find-eventual-safe-states) |
 | [0994-rotting-oranges](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0994-rotting-oranges) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/1448-count-good-nodes-in-binary-tree) |
+| [2360-longest-cycle-in-a-graph](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/2360-longest-cycle-in-a-graph) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Binary Tree
 |  |
@@ -305,6 +307,7 @@
 | [0851-loud-and-rich](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0851-loud-and-rich) |
 | [0997-find-the-town-judge](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0997-find-the-town-judge) |
 | [1791-find-center-of-star-graph](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/1791-find-center-of-star-graph) |
+| [2360-longest-cycle-in-a-graph](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/2360-longest-cycle-in-a-graph) |
 ## Matrix
 |  |
 | ------- |
@@ -323,6 +326,7 @@
 | [0210-course-schedule-ii](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0210-course-schedule-ii) |
 | [0802-find-eventual-safe-states](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0802-find-eventual-safe-states) |
 | [0851-loud-and-rich](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0851-loud-and-rich) |
+| [2360-longest-cycle-in-a-graph](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/2360-longest-cycle-in-a-graph) |
 ## Directed Acyclic Graph
 |  |
 | ------- |
@@ -332,8 +336,10 @@
 |  |
 | ------- |
 | [0802-find-eventual-safe-states](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0802-find-eventual-safe-states) |
+| [2360-longest-cycle-in-a-graph](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/2360-longest-cycle-in-a-graph) |
 ## Tarjan's SCC Algorithm
 |  |
 | ------- |
 | [0802-find-eventual-safe-states](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0802-find-eventual-safe-states) |
+| [2360-longest-cycle-in-a-graph](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/2360-longest-cycle-in-a-graph) |
 <!---LeetCode Topics End-->
