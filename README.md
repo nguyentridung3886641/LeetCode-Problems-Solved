@@ -37,6 +37,7 @@
 | [0733-flood-fill](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0733-flood-fill) |
 | [0802-find-eventual-safe-states](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0802-find-eventual-safe-states) |
 | [0851-loud-and-rich](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0851-loud-and-rich) |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [2360-longest-cycle-in-a-graph](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/2360-longest-cycle-in-a-graph) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
@@ -52,6 +53,7 @@
 | [0733-flood-fill](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0733-flood-fill) |
 | [0802-find-eventual-safe-states](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0802-find-eventual-safe-states) |
 | [0994-rotting-oranges](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0994-rotting-oranges) |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [2360-longest-cycle-in-a-graph](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/2360-longest-cycle-in-a-graph) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -314,6 +316,7 @@
 | [0802-find-eventual-safe-states](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0802-find-eventual-safe-states) |
 | [0851-loud-and-rich](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0851-loud-and-rich) |
 | [0997-find-the-town-judge](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0997-find-the-town-judge) |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1791-find-center-of-star-graph](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/1791-find-center-of-star-graph) |
 | [2050-parallel-courses-iii](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/2050-parallel-courses-iii) |
 | [2360-longest-cycle-in-a-graph](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/2360-longest-cycle-in-a-graph) |
@@ -330,6 +333,7 @@
 | [0200-number-of-islands](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0684-redundant-connection) |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/1319-number-of-operations-to-make-network-connected) |
 ## Topological Sort
 |  |
 | ------- |
