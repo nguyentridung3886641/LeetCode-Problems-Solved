@@ -34,6 +34,7 @@
 | [0230-kth-smallest-element-in-a-bst](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0547-number-of-provinces](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0684-redundant-connection) |
+| [0685-redundant-connection-ii](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0685-redundant-connection-ii) |
 | [0733-flood-fill](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0733-flood-fill) |
 | [0802-find-eventual-safe-states](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0802-find-eventual-safe-states) |
 | [0851-loud-and-rich](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0851-loud-and-rich) |
@@ -50,6 +51,7 @@
 | [0210-course-schedule-ii](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0684-redundant-connection) |
+| [0685-redundant-connection-ii](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0685-redundant-connection-ii) |
 | [0733-flood-fill](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0733-flood-fill) |
 | [0802-find-eventual-safe-states](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0802-find-eventual-safe-states) |
 | [0994-rotting-oranges](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0994-rotting-oranges) |
@@ -317,6 +319,7 @@
 | [0210-course-schedule-ii](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0684-redundant-connection) |
+| [0685-redundant-connection-ii](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0685-redundant-connection-ii) |
 | [0802-find-eventual-safe-states](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0802-find-eventual-safe-states) |
 | [0851-loud-and-rich](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0851-loud-and-rich) |
 | [0990-satisfiability-of-equality-equations](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0990-satisfiability-of-equality-equations) |
@@ -338,6 +341,7 @@
 | [0200-number-of-islands](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0684-redundant-connection) |
+| [0685-redundant-connection-ii](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0685-redundant-connection-ii) |
 | [0990-satisfiability-of-equality-equations](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0990-satisfiability-of-equality-equations) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/1319-number-of-operations-to-make-network-connected) |
 ## Topological Sort
