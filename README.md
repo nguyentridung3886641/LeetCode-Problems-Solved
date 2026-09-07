@@ -104,6 +104,7 @@
 | [0621-task-scheduler](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0621-task-scheduler) |
 | [0733-flood-fill](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0733-flood-fill) |
 | [0851-loud-and-rich](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0851-loud-and-rich) |
+| [0990-satisfiability-of-equality-equations](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0990-satisfiability-of-equality-equations) |
 | [0994-rotting-oranges](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0994-rotting-oranges) |
 | [0997-find-the-town-judge](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0997-find-the-town-judge) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -152,6 +153,7 @@
 | [0211-design-add-and-search-words-data-structure](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0763-partition-labels](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0763-partition-labels) |
 | [0940-distinct-subsequences-ii](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0940-distinct-subsequences-ii) |
+| [0990-satisfiability-of-equality-equations](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0990-satisfiability-of-equality-equations) |
 | [3614-process-string-with-special-operations-ii](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/3614-process-string-with-special-operations-ii) |
 | [3838-weighted-word-mapping](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/3838-weighted-word-mapping) |
 ## Design
@@ -317,6 +319,7 @@
 | [0684-redundant-connection](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0684-redundant-connection) |
 | [0802-find-eventual-safe-states](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0802-find-eventual-safe-states) |
 | [0851-loud-and-rich](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0851-loud-and-rich) |
+| [0990-satisfiability-of-equality-equations](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0990-satisfiability-of-equality-equations) |
 | [0997-find-the-town-judge](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0997-find-the-town-judge) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1791-find-center-of-star-graph](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/1791-find-center-of-star-graph) |
@@ -335,6 +338,7 @@
 | [0200-number-of-islands](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0684-redundant-connection) |
+| [0990-satisfiability-of-equality-equations](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0990-satisfiability-of-equality-equations) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/1319-number-of-operations-to-make-network-connected) |
 ## Topological Sort
 |  |
