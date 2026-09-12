@@ -78,6 +78,7 @@
 | [0230-kth-smallest-element-in-a-bst](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0268-missing-number](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0349-intersection-of-two-arrays) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 ## Array
@@ -118,6 +119,7 @@
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2574-left-and-right-sum-differences](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/2574-left-and-right-sum-differences) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
@@ -222,6 +224,7 @@
 | [0561-array-partition](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0561-array-partition) |
 | [0621-task-scheduler](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0621-task-scheduler) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 ## Greedy
@@ -252,6 +255,7 @@
 | [0435-non-overlapping-intervals](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0435-non-overlapping-intervals) |
 | [0940-distinct-subsequences-ii](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0940-distinct-subsequences-ii) |
 | [2050-parallel-courses-iii](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/2050-parallel-courses-iii) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
