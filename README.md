@@ -208,6 +208,7 @@
 | [0066-plus-one](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0268-missing-number) |
+| [0836-rectangle-overlap](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0836-rectangle-overlap) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
@@ -411,4 +412,8 @@
 |  |
 | ------- |
 | [1631-path-with-minimum-effort](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/1631-path-with-minimum-effort) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
