@@ -37,6 +37,7 @@
 | [0684-redundant-connection](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0684-redundant-connection) |
 | [0685-redundant-connection-ii](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0685-redundant-connection-ii) |
 | [0733-flood-fill](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0733-flood-fill) |
+| [0743-network-delay-time](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0743-network-delay-time) |
 | [0802-find-eventual-safe-states](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0802-find-eventual-safe-states) |
 | [0851-loud-and-rich](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0851-loud-and-rich) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/1319-number-of-operations-to-make-network-connected) |
@@ -56,6 +57,7 @@
 | [0684-redundant-connection](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0684-redundant-connection) |
 | [0685-redundant-connection-ii](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0685-redundant-connection-ii) |
 | [0733-flood-fill](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0733-flood-fill) |
+| [0743-network-delay-time](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0743-network-delay-time) |
 | [0802-find-eventual-safe-states](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0802-find-eventual-safe-states) |
 | [0994-rotting-oranges](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0994-rotting-oranges) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/1319-number-of-operations-to-make-network-connected) |
@@ -293,6 +295,7 @@
 |  |
 | ------- |
 | [0621-task-scheduler](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0621-task-scheduler) |
+| [0743-network-delay-time](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0743-network-delay-time) |
 | [1631-path-with-minimum-effort](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/1631-path-with-minimum-effort) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/3691-maximum-total-subarray-value-ii) |
 ## Bit Manipulation
@@ -340,6 +343,7 @@
 | [0547-number-of-provinces](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0684-redundant-connection) |
 | [0685-redundant-connection-ii](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0685-redundant-connection-ii) |
+| [0743-network-delay-time](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0743-network-delay-time) |
 | [0802-find-eventual-safe-states](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0802-find-eventual-safe-states) |
 | [0851-loud-and-rich](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0851-loud-and-rich) |
 | [0990-satisfiability-of-equality-equations](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0990-satisfiability-of-equality-equations) |
@@ -415,9 +419,14 @@
 ## Dijkstra's Algorithm
 |  |
 | ------- |
+| [0743-network-delay-time](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0743-network-delay-time) |
 | [1631-path-with-minimum-effort](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/1631-path-with-minimum-effort) |
 ## Geometry
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0836-rectangle-overlap) |
+## Shortest Path
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0743-network-delay-time) |
 <!---LeetCode Topics End-->
