@@ -225,6 +225,7 @@
 | [0268-missing-number](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0268-missing-number) |
 | [0836-rectangle-overlap](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0836-rectangle-overlap) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/1401-circle-and-rectangle-overlapping) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/3751-total-waviness-of-numbers-in-range-i) |
@@ -450,6 +451,7 @@
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0836-rectangle-overlap) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/1401-circle-and-rectangle-overlapping) |
 ## Shortest Path
 |  |
 | ------- |
