@@ -134,6 +134,7 @@
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
 | [2574-left-and-right-sum-differences](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/2574-left-and-right-sum-differences) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
+| [3525-find-x-value-of-array-ii](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/3525-find-x-value-of-array-ii) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
@@ -227,6 +228,7 @@
 | [0836-rectangle-overlap](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0836-rectangle-overlap) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/1401-circle-and-rectangle-overlapping) |
+| [3525-find-x-value-of-array-ii](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/3525-find-x-value-of-array-ii) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/3751-total-waviness-of-numbers-in-range-i) |
@@ -307,6 +309,7 @@
 ## Segment Tree
 |  |
 | ------- |
+| [3525-find-x-value-of-array-ii](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/3525-find-x-value-of-array-ii) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/3691-maximum-total-subarray-value-ii) |
 ## Heap (Priority Queue)
 |  |
