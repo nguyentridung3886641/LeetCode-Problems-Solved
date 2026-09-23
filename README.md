@@ -38,6 +38,7 @@
 | [0685-redundant-connection-ii](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0685-redundant-connection-ii) |
 | [0733-flood-fill](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0743-network-delay-time) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0802-find-eventual-safe-states) |
 | [0851-loud-and-rich](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0851-loud-and-rich) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/1319-number-of-operations-to-make-network-connected) |
@@ -58,6 +59,7 @@
 | [0685-redundant-connection-ii](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0685-redundant-connection-ii) |
 | [0733-flood-fill](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0743-network-delay-time) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0802-find-eventual-safe-states) |
 | [0994-rotting-oranges](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0994-rotting-oranges) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/1319-number-of-operations-to-make-network-connected) |
@@ -281,6 +283,7 @@
 | [0055-jump-game](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0435-non-overlapping-intervals](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0435-non-overlapping-intervals) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0940-distinct-subsequences-ii](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0940-distinct-subsequences-ii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2050-parallel-courses-iii](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/2050-parallel-courses-iii) |
@@ -316,6 +319,7 @@
 | ------- |
 | [0621-task-scheduler](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0621-task-scheduler) |
 | [0743-network-delay-time](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0743-network-delay-time) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1514-path-with-maximum-probability](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/1514-path-with-maximum-probability) |
 | [1631-path-with-minimum-effort](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/1631-path-with-minimum-effort) |
@@ -367,6 +371,7 @@
 | [0684-redundant-connection](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0684-redundant-connection) |
 | [0685-redundant-connection-ii](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0685-redundant-connection-ii) |
 | [0743-network-delay-time](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0743-network-delay-time) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0802-find-eventual-safe-states) |
 | [0851-loud-and-rich](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0851-loud-and-rich) |
 | [0990-satisfiability-of-equality-equations](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0990-satisfiability-of-equality-equations) |
@@ -461,6 +466,7 @@
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0743-network-delay-time) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1514-path-with-maximum-probability](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/1514-path-with-maximum-probability) |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
