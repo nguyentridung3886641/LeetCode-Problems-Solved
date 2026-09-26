@@ -131,6 +131,7 @@
 | [1584-min-cost-to-connect-all-points](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/1584-min-cost-to-connect-all-points) |
 | [1631-path-with-minimum-effort](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/1631-path-with-minimum-effort) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2050-parallel-courses-iii](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/2050-parallel-courses-iii) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/2161-partition-array-according-to-given-pivot) |
@@ -164,6 +165,7 @@
 | [0997-find-the-town-judge](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0997-find-the-town-judge) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Divide and Conquer
 |  |
@@ -184,6 +186,7 @@
 | [0940-distinct-subsequences-ii](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0940-distinct-subsequences-ii) |
 | [0990-satisfiability-of-equality-equations](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0990-satisfiability-of-equality-equations) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3498-reverse-degree-of-a-string](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/3498-reverse-degree-of-a-string) |
 | [3614-process-string-with-special-operations-ii](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/3614-process-string-with-special-operations-ii) |
