@@ -86,6 +86,7 @@
 | [0230-kth-smallest-element-in-a-bst](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0268-missing-number](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0349-intersection-of-two-arrays) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0532-k-diff-pairs-in-an-array) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1631-path-with-minimum-effort](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/1631-path-with-minimum-effort) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
@@ -117,6 +118,7 @@
 | [0283-move-zeroes](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0349-intersection-of-two-arrays) |
 | [0435-non-overlapping-intervals](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0435-non-overlapping-intervals) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0561-array-partition](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0561-array-partition) |
 | [0621-task-scheduler](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0621-task-scheduler) |
 | [0733-flood-fill](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0733-flood-fill) |
@@ -161,6 +163,7 @@
 | [0219-contains-duplicate-ii](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0349-intersection-of-two-arrays) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0621-task-scheduler](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0621-task-scheduler) |
 | [0763-partition-labels](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0763-partition-labels) |
 | [0997-find-the-town-judge](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0997-find-the-town-judge) |
@@ -220,6 +223,7 @@
 | [0189-rotate-array](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0349-intersection-of-two-arrays) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0680-valid-palindrome-ii](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0680-valid-palindrome-ii) |
 | [0763-partition-labels](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0763-partition-labels) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -258,6 +262,7 @@
 | [0268-missing-number](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0349-intersection-of-two-arrays) |
 | [0435-non-overlapping-intervals](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0435-non-overlapping-intervals) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0561-array-partition](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0561-array-partition) |
 | [0621-task-scheduler](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0621-task-scheduler) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
