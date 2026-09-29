@@ -135,6 +135,7 @@
 | [2050-parallel-courses-iii](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/2050-parallel-courses-iii) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
 | [2574-left-and-right-sum-differences](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/2574-left-and-right-sum-differences) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
@@ -295,6 +296,7 @@
 | [0940-distinct-subsequences-ii](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0940-distinct-subsequences-ii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2050-parallel-courses-iii](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/2050-parallel-courses-iii) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
@@ -403,6 +405,7 @@
 | [0994-rotting-oranges](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0994-rotting-oranges) |
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1631-path-with-minimum-effort](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/1631-path-with-minimum-effort) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Union-Find
@@ -488,4 +491,5 @@
 |  |
 | ------- |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 <!---LeetCode Topics End-->
