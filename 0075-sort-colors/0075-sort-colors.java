@@ -2,9 +2,7 @@ class Solution {
     public void sortColors(int[] a) {
         int n = a.length;
         int L = 0, M = 0, R = n - 1;
-        if (n == 1) {
-            return;
-        }
+        
         while (M <= R) {
             if (a[M] == 0 && M > L) {
                 int temp = a[M];
