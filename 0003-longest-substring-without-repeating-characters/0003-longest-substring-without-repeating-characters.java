@@ -3,25 +3,16 @@ class Solution {
         int n = s.length();
         
         int i = 0, j = 0;
-        int[] mem = new int[90];
-        int maxLength = 0, curLength = 0;
+        int maxLength = 0;
 
+        HashMap<Character, Integer> map = new HashMap<>();
         while (j < n) {
-            mem[s.charAt(j) - ' ']++;
-            if (mem[s.charAt(j) - ' '] > 1) {
-                while (s.charAt(i) != s.charAt(j)) {
-                    mem[s.charAt(i) - ' ']--;
-                    i++;
-                }
-                mem[s.charAt(i) - ' ']--;
-                i++;
-                curLength = j - i;
+            if (map.containsKey(s.charAt(j))) {
+                i = Math.max(i, map.get(s.charAt(j)) + 1);
             }
-            
+            map.put(s.charAt(j), j);
+            maxLength = Math.max(maxLength, j - i + 1);
             j++;
-            curLength++;
-            
-            maxLength = Math.max(curLength, maxLength);
         }
         return maxLength;
     }
