@@ -191,6 +191,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0005-longest-palindromic-substring) |
 | [0020-valid-parentheses](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0022-generate-parentheses) |
 | [0179-largest-number](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0179-largest-number) |
 | [0208-implement-trie-prefix-tree](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0211-design-add-and-search-words-data-structure) |
@@ -308,6 +309,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0005-longest-palindromic-substring) |
+| [0022-generate-parentheses](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0022-generate-parentheses) |
 | [0045-jump-game-ii](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -516,10 +518,15 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0022-generate-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Bubble Sort
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0075-sort-colors) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
