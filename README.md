@@ -118,6 +118,7 @@
 | [0268-missing-number](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0349-intersection-of-two-arrays) |
+| [0416-partition-equal-subset-sum](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0435-non-overlapping-intervals) |
 | [0518-coin-change-ii](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0518-coin-change-ii) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0532-k-diff-pairs-in-an-array) |
@@ -321,6 +322,7 @@
 | [0055-jump-game](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0198-house-robber](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0198-house-robber) |
+| [0416-partition-equal-subset-sum](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0435-non-overlapping-intervals) |
 | [0518-coin-change-ii](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0518-coin-change-ii) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0787-cheapest-flights-within-k-stops) |
@@ -547,9 +549,14 @@
 ## Knapsack Problem
 |  |
 | ------- |
+| [0416-partition-equal-subset-sum](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0416-partition-equal-subset-sum) |
 | [0518-coin-change-ii](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0518-coin-change-ii) |
 ## Complete Knapsack
 |  |
 | ------- |
 | [0518-coin-change-ii](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0518-coin-change-ii) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0416-partition-equal-subset-sum](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0416-partition-equal-subset-sum) |
 <!---LeetCode Topics End-->
