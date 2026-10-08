@@ -109,6 +109,7 @@
 | [0134-gas-station](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0136-single-number) |
+| [0139-word-break](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0139-word-break) |
 | [0169-majority-element](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0189-rotate-array) |
@@ -166,6 +167,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0139-word-break](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0139-word-break) |
 | [0169-majority-element](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0169-majority-element) |
 | [0208-implement-trie-prefix-tree](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0208-implement-trie-prefix-tree) |
 | [0219-contains-duplicate-ii](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0219-contains-duplicate-ii) |
@@ -196,6 +198,7 @@
 | [0020-valid-parentheses](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0032-longest-valid-parentheses) |
+| [0139-word-break](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0139-word-break) |
 | [0179-largest-number](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0179-largest-number) |
 | [0208-implement-trie-prefix-tree](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0211-design-add-and-search-words-data-structure) |
@@ -221,6 +224,7 @@
 ## Trie
 |  |
 | ------- |
+| [0139-word-break](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0139-word-break) |
 | [0208-implement-trie-prefix-tree](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0211-design-add-and-search-words-data-structure) |
 ## Sliding Window
@@ -321,6 +325,7 @@
 | [0045-jump-game-ii](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0139-word-break](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0198-house-robber) |
 | [0416-partition-equal-subset-sum](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0435-non-overlapping-intervals) |
@@ -559,4 +564,12 @@
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0416-partition-equal-subset-sum) |
+## Memoization
+|  |
+| ------- |
+| [0139-word-break](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0139-word-break) |
+## Brute-Force Search
+|  |
+| ------- |
+| [0139-word-break](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
