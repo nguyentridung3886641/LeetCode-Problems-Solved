@@ -260,6 +260,7 @@
 | ------- |
 | [0007-reverse-integer](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0009-palindrome-number) |
+| [0062-unique-paths](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0268-missing-number) |
@@ -325,6 +326,7 @@
 | [0032-longest-valid-parentheses](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0032-longest-valid-parentheses) |
 | [0045-jump-game-ii](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0062-unique-paths) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0139-word-break](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0198-house-robber) |
@@ -575,4 +577,8 @@
 |  |
 | ------- |
 | [0139-word-break](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0139-word-break) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
