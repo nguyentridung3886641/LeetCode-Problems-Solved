@@ -211,6 +211,7 @@
 | [0990-satisfiability-of-equality-equations](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0990-satisfiability-of-equality-equations) |
 | [1021-remove-outermost-parentheses](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/1021-remove-outermost-parentheses) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -313,6 +314,7 @@
 | [0763-partition-labels](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0763-partition-labels) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
@@ -403,6 +405,7 @@
 | [0856-score-of-parentheses](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/1021-remove-outermost-parentheses) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Counting
@@ -546,6 +549,7 @@
 | [0856-score-of-parentheses](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/1021-remove-outermost-parentheses) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Bubble Sort
