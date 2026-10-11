@@ -3,19 +3,19 @@ class Solution {
         int m = grid.length;
         int n = grid[0].length;
 
-        int[] dp = new int[n];
-        dp[0] = grid[0][0];
-
-        for (int i = 1; i < n; i++) {
-            dp[i] = dp[i - 1] + grid[0][i];
+        int[][] mem = new int[m][n];
+        for (int[] row : mem) {
+            Arrays.fill(row, -1);
         }
 
-        for (int i = 1; i < m; i++) {
-            dp[0] += grid[i][0];
-            for (int j = 1; j < n; j++) {
-                dp[j] = Math.min(dp[j], dp[j - 1]) + grid[i][j];
-            }
-        }
-        return dp[n - 1];
+        return dp(grid, mem, m - 1, n - 1);
+    }
+
+    public int dp(int[][] grid, int[][] mem, int r, int c) {
+        if (r < 0 || c < 0) return Integer.MAX_VALUE;
+        if (r == 0 && c == 0) return grid[r][c];
+        if (mem[r][c] != -1) return mem[r][c];
+
+        return mem[r][c] = Math.min(dp(grid, mem, r - 1, c), dp(grid, mem, r, c - 1)) + grid[r][c];
     }
 }
