@@ -149,6 +149,7 @@
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
 | [2574-left-and-right-sum-differences](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/2574-left-and-right-sum-differences) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3525-find-x-value-of-array-ii](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/3525-find-x-value-of-array-ii) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -348,6 +349,7 @@
 ## Enumeration
 |  |
 | ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Prefix Sum
 |  |
