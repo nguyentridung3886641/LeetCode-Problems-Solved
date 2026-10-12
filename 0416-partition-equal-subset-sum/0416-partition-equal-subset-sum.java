@@ -17,19 +17,24 @@ class Solution {
 
         target /= 2;
 
-        boolean[] dp = new boolean[target + 1];
-        dp[0] = true;
+        byte[][] mem = new byte[n][target + 1];
 
-        for (int i = 1; i <= n; i++) {
-            for (int j = target; j >= nums[i - 1]; j--) {
-                dp[j] = dp[j] || dp[j - nums[i - 1]];
-            }
+        return dp(nums, mem, n, target, 0);
+    }
 
-            if (dp[target]) {
-                return true;
-            }
+    public boolean dp(int[] nums, byte[][] mem, int n, int target, int idx) {
+        if (target == 0) return true;
+        if (idx >= n || target < 0) return false;
+        
+        if (mem[idx][target] != 0) {
+            return mem[idx][target] == 1;
         }
 
-        return false;    
+        boolean res = dp(nums, mem, n, target - nums[idx], idx + 1)
+                   || dp(nums, mem, n, target, idx + 1);
+
+        mem[idx][target] = (byte) (res ? 1 : -1);
+
+        return res;
     }
 }
