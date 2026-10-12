@@ -85,6 +85,7 @@
 | [0098-validate-binary-search-tree](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0098-validate-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0268-missing-number](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0268-missing-number) |
+| [0300-longest-increasing-subsequence](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0300-longest-increasing-subsequence) |
 | [0349-intersection-of-two-arrays](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0349-intersection-of-two-arrays) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0532-k-diff-pairs-in-an-array) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -120,6 +121,7 @@
 | [0219-contains-duplicate-ii](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0283-move-zeroes) |
+| [0300-longest-increasing-subsequence](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0300-longest-increasing-subsequence) |
 | [0349-intersection-of-two-arrays](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0349-intersection-of-two-arrays) |
 | [0416-partition-equal-subset-sum](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0435-non-overlapping-intervals) |
@@ -340,6 +342,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0139-word-break](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0198-house-robber) |
+| [0300-longest-increasing-subsequence](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0300-longest-increasing-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0435-non-overlapping-intervals) |
 | [0518-coin-change-ii](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0518-coin-change-ii) |
@@ -597,4 +600,8 @@
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0062-unique-paths) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0300-longest-increasing-subsequence](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0300-longest-increasing-subsequence) |
 <!---LeetCode Topics End-->
