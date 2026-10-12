@@ -17,21 +17,19 @@ class Solution {
 
         target /= 2;
 
-        boolean[][] dp = new boolean[n + 1][target + 1];
-        dp[0][0] = true;
+        boolean[] dp = new boolean[target + 1];
+        dp[0] = true;
 
-        for (int i = 1; i < n; i++) {
-            for (int j = 0; j <= target; j++) {
-                if (j >= nums[i]) {
-                    dp[i][j] = dp[i - 1][j] || dp[i - 1][j - nums[i]];
-                } else {
-                    dp[i][j] = dp[i - 1][j];
-                }
+        for (int i = 1; i <= n; i++) {
+            for (int j = target; j >= nums[i - 1]; j--) {
+                dp[j] = dp[j] || dp[j - nums[i - 1]];
             }
-            if (dp[i][target]) {
+
+            if (dp[target]) {
                 return true;
             }
         }
-        return false;
+
+        return false;    
     }
 }
