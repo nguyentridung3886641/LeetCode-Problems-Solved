@@ -20,6 +20,7 @@
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/1448-count-good-nodes-in-binary-tree) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
@@ -77,6 +78,7 @@
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/1448-count-good-nodes-in-binary-tree) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Search Tree
 |  |
@@ -89,6 +91,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0349-intersection-of-two-arrays) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0532-k-diff-pairs-in-an-array) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1631-path-with-minimum-effort](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/1631-path-with-minimum-effort) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
@@ -143,6 +146,7 @@
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1514-path-with-maximum-probability](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/1514-path-with-maximum-probability) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1584-min-cost-to-connect-all-points](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/1584-min-cost-to-connect-all-points) |
 | [1631-path-with-minimum-effort](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/1631-path-with-minimum-effort) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -200,6 +204,7 @@
 | [0169-majority-element](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0191-number-of-1-bits) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## String
 |  |
 | ------- |
@@ -280,6 +285,7 @@
 | [0836-rectangle-overlap](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0836-rectangle-overlap) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/1401-circle-and-rectangle-overlapping) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [3525-find-x-value-of-array-ii](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/3525-find-x-value-of-array-ii) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
@@ -360,6 +366,7 @@
 | [0940-distinct-subsequences-ii](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0940-distinct-subsequences-ii) |
 | [1143-longest-common-subsequence](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/1143-longest-common-subsequence) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2050-parallel-courses-iii](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/2050-parallel-courses-iii) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -497,6 +504,7 @@
 | [0685-redundant-connection-ii](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0685-redundant-connection-ii) |
 | [0990-satisfiability-of-equality-equations](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0990-satisfiability-of-equality-equations) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/1319-number-of-operations-to-make-network-connected) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1579-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/1579-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
 | [1584-min-cost-to-connect-all-points](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/1584-min-cost-to-connect-all-points) |
 | [1631-path-with-minimum-effort](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/1631-path-with-minimum-effort) |
@@ -604,6 +612,7 @@
 |  |
 | ------- |
 | [0139-word-break](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0139-word-break) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Brute-Force Search
 |  |
 | ------- |
@@ -612,6 +621,7 @@
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0062-unique-paths) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Longest Increasing Subsequence
 |  |
 | ------- |
@@ -624,4 +634,8 @@
 |  |
 | ------- |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+## Fermat's Little Theorem
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 <!---LeetCode Topics End-->
