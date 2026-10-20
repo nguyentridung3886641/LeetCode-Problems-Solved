@@ -174,6 +174,7 @@
 | [3838-weighted-word-mapping](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/3838-weighted-word-mapping) |
 | [3875-construct-uniform-parity-array-i](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3886-sum-of-sortable-integers](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/3886-sum-of-sortable-integers) |
 | [3903-smallest-stable-index-i](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/3904-smallest-stable-index-ii) |
 ## Hash Table
@@ -298,6 +299,7 @@
 | [3871-count-commas-in-range-ii](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/3871-count-commas-in-range-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3886-sum-of-sortable-integers](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/3886-sum-of-sortable-integers) |
 ## Sorting
 |  |
 | ------- |
@@ -319,6 +321,7 @@
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3886-sum-of-sortable-integers](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/3886-sum-of-sortable-integers) |
 ## Greedy
 |  |
 | ------- |
@@ -382,6 +385,7 @@
 | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/3751-total-waviness-of-numbers-in-range-i) |
+| [3886-sum-of-sortable-integers](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/3886-sum-of-sortable-integers) |
 ## Prefix Sum
 |  |
 | ------- |
