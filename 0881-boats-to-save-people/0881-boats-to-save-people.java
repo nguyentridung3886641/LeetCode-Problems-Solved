@@ -19,10 +19,8 @@ class Solution {
                 --right;
             }
         }
-
-        for (int i = left; i <= right; i++) {
-            ++ans;
-        }
+        
+        ans += right - left + 1;
 
         return ans;
     }
