@@ -238,6 +238,7 @@
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [2409-count-days-spent-together](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/2409-count-days-spent-together) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3498-reverse-degree-of-a-string](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/3498-reverse-degree-of-a-string) |
 | [3614-process-string-with-special-operations-ii](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/3614-process-string-with-special-operations-ii) |
@@ -297,6 +298,7 @@
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [2409-count-days-spent-together](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/2409-count-days-spent-together) |
 | [3525-find-x-value-of-array-ii](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/3525-find-x-value-of-array-ii) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
