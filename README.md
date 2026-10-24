@@ -105,6 +105,7 @@
 | [0018-4sum](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0018-4sum) |
 | [0027-remove-element](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0033-search-in-rotated-sorted-array) |
+| [0042-trapping-rain-water](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0056-merge-intervals) |
@@ -269,6 +270,7 @@
 | [0016-3sum-closest](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0018-4sum) |
 | [0027-remove-element](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0027-remove-element) |
+| [0042-trapping-rain-water](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0189-rotate-array) |
@@ -369,6 +371,7 @@
 | [0005-longest-palindromic-substring](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0032-longest-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0062-unique-paths) |
@@ -455,6 +458,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0032-longest-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0094-binary-tree-inorder-traversal) |
 | [0856-score-of-parentheses](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -664,4 +668,8 @@
 |  |
 | ------- |
 | [0881-boats-to-save-people](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0881-boats-to-save-people) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
