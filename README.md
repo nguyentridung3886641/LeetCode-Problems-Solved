@@ -92,6 +92,7 @@
 | [0300-longest-increasing-subsequence](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0300-longest-increasing-subsequence) |
 | [0349-intersection-of-two-arrays](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0349-intersection-of-two-arrays) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0532-k-diff-pairs-in-an-array) |
+| [1004-max-consecutive-ones-iii](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/1004-max-consecutive-ones-iii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1631-path-with-minimum-effort](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/1631-path-with-minimum-effort) |
@@ -148,6 +149,7 @@
 | [0990-satisfiability-of-equality-equations](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0990-satisfiability-of-equality-equations) |
 | [0994-rotting-oranges](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0994-rotting-oranges) |
 | [0997-find-the-town-judge](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0997-find-the-town-judge) |
+| [1004-max-consecutive-ones-iii](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/1004-max-consecutive-ones-iii) |
 | [1109-corporate-flight-bookings](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/1109-corporate-flight-bookings) |
 | [1254-number-of-closed-islands](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/1254-number-of-closed-islands) |
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
@@ -264,6 +266,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0219-contains-duplicate-ii) |
+| [1004-max-consecutive-ones-iii](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/1004-max-consecutive-ones-iii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 ## Two Pointers
 |  |
@@ -411,6 +414,7 @@
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0560-subarray-sum-equals-k) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0974-subarray-sums-divisible-by-k) |
+| [1004-max-consecutive-ones-iii](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/1004-max-consecutive-ones-iii) |
 | [1109-corporate-flight-bookings](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/1109-corporate-flight-bookings) |
 | [2574-left-and-right-sum-differences](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/2574-left-and-right-sum-differences) |
 | [3903-smallest-stable-index-i](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/3903-smallest-stable-index-i) |
