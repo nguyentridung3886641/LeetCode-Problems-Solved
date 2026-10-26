@@ -50,6 +50,7 @@
 | [2360-longest-cycle-in-a-graph](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/2360-longest-cycle-in-a-graph) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -72,6 +73,7 @@
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
 | [2360-longest-cycle-in-a-graph](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/2360-longest-cycle-in-a-graph) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Binary Tree
 |  |
 | ------- |
@@ -176,6 +178,7 @@
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/3644-maximum-k-to-sort-a-permutation) |
@@ -529,6 +532,7 @@
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Union-Find
 |  |
 | ------- |
@@ -543,6 +547,7 @@
 | [1579-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/1579-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
 | [1584-min-cost-to-connect-all-points](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/1584-min-cost-to-connect-all-points) |
 | [1631-path-with-minimum-effort](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/1631-path-with-minimum-effort) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Topological Sort
 |  |
 | ------- |
