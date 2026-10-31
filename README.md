@@ -186,6 +186,7 @@
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/3644-maximum-k-to-sort-a-permutation) |
+| [3665-twisted-mirror-path-count](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/3665-twisted-mirror-path-count) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/3691-maximum-total-subarray-value-ii) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3838-weighted-word-mapping](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/3838-weighted-word-mapping) |
@@ -414,6 +415,7 @@
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
+| [3665-twisted-mirror-path-count](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/3665-twisted-mirror-path-count) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/3882-minimum-xor-path-in-a-grid) |
@@ -550,6 +552,7 @@
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+| [3665-twisted-mirror-path-count](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/3665-twisted-mirror-path-count) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Union-Find
 |  |
