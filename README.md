@@ -148,6 +148,7 @@
 | [0605-can-place-flowers](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0605-can-place-flowers) |
 | [0621-task-scheduler](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0621-task-scheduler) |
 | [0733-flood-fill](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0733-flood-fill) |
+| [0739-daily-temperatures](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0739-daily-temperatures) |
 | [0835-image-overlap](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0835-image-overlap) |
 | [0851-loud-and-rich](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0851-loud-and-rich) |
 | [0881-boats-to-save-people](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0881-boats-to-save-people) |
@@ -491,6 +492,7 @@
 | [0032-longest-valid-parentheses](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0094-binary-tree-inorder-traversal) |
+| [0739-daily-temperatures](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0739-daily-temperatures) |
 | [0856-score-of-parentheses](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/1021-remove-outermost-parentheses) |
@@ -712,4 +714,5 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0042-trapping-rain-water) |
+| [0739-daily-temperatures](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
