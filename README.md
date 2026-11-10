@@ -192,6 +192,7 @@
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3665-twisted-mirror-path-count](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/3665-twisted-mirror-path-count) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/3691-maximum-total-subarray-value-ii) |
+| [3693-climbing-stairs-ii](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/3693-climbing-stairs-ii) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3838-weighted-word-mapping](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/3838-weighted-word-mapping) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/3841-palindromic-path-queries-in-a-tree) |
@@ -430,6 +431,7 @@
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3665-twisted-mirror-path-count](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/3665-twisted-mirror-path-count) |
+| [3693-climbing-stairs-ii](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/3693-climbing-stairs-ii) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/3882-minimum-xor-path-in-a-grid) |
