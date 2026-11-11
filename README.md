@@ -121,6 +121,7 @@
 | [0064-minimum-path-sum](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0075-sort-colors) |
+| [0084-largest-rectangle-in-histogram](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0088-merge-sorted-array) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -507,6 +508,7 @@
 | [0020-valid-parentheses](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0042-trapping-rain-water) |
+| [0084-largest-rectangle-in-histogram](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0084-largest-rectangle-in-histogram) |
 | [0094-binary-tree-inorder-traversal](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0094-binary-tree-inorder-traversal) |
 | [0739-daily-temperatures](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0739-daily-temperatures) |
 | [0856-score-of-parentheses](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0856-score-of-parentheses) |
@@ -730,5 +732,10 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0042-trapping-rain-water) |
+| [0084-largest-rectangle-in-histogram](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0084-largest-rectangle-in-histogram) |
 | [0739-daily-temperatures](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0739-daily-temperatures) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0084-largest-rectangle-in-histogram) |
 <!---LeetCode Topics End-->
