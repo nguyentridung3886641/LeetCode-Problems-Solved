@@ -122,6 +122,7 @@
 | [0066-plus-one](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0075-sort-colors) |
 | [0084-largest-rectangle-in-histogram](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0085-maximal-rectangle) |
 | [0088-merge-sorted-array](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0088-merge-sorted-array) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -418,6 +419,7 @@
 | [0062-unique-paths](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0064-minimum-path-sum) |
+| [0085-maximal-rectangle](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0085-maximal-rectangle) |
 | [0091-decode-ways](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0091-decode-ways) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0139-word-break](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0139-word-break) |
@@ -514,6 +516,7 @@
 | [0032-longest-valid-parentheses](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0085-maximal-rectangle) |
 | [0094-binary-tree-inorder-traversal](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0094-binary-tree-inorder-traversal) |
 | [0503-next-greater-element-ii](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0739-daily-temperatures) |
@@ -571,6 +574,7 @@
 | ------- |
 | [0063-unique-paths-ii](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0064-minimum-path-sum) |
+| [0085-maximal-rectangle](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0085-maximal-rectangle) |
 | [0200-number-of-islands](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0733-flood-fill) |
 | [0835-image-overlap](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0835-image-overlap) |
@@ -740,6 +744,7 @@
 | ------- |
 | [0042-trapping-rain-water](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0085-maximal-rectangle) |
 | [0503-next-greater-element-ii](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0739-daily-temperatures) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
