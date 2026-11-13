@@ -282,6 +282,7 @@
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0901-online-stock-span](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0901-online-stock-span) |
 ## Trie
 |  |
 | ------- |
@@ -521,6 +522,7 @@
 | [0503-next-greater-element-ii](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0739-daily-temperatures) |
 | [0856-score-of-parentheses](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0856-score-of-parentheses) |
+| [0901-online-stock-span](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0901-online-stock-span) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/1021-remove-outermost-parentheses) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
@@ -747,6 +749,7 @@
 | [0085-maximal-rectangle](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0085-maximal-rectangle) |
 | [0503-next-greater-element-ii](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0739-daily-temperatures) |
+| [0901-online-stock-span](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0901-online-stock-span) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Range Minimum/Maximum Query
 |  |
@@ -760,4 +763,8 @@
 |  |
 | ------- |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
+## Data Stream
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0901-online-stock-span) |
 <!---LeetCode Topics End-->
