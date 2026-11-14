@@ -184,6 +184,7 @@
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
+| [3364-minimum-positive-sum-subarray](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/3364-minimum-positive-sum-subarray) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
@@ -299,6 +300,7 @@
 | [1004-max-consecutive-ones-iii](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/1004-max-consecutive-ones-iii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2747-count-zero-request-servers](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/2747-count-zero-request-servers) |
+| [3364-minimum-positive-sum-subarray](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/3364-minimum-positive-sum-subarray) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Two Pointers
@@ -460,6 +462,7 @@
 | [1004-max-consecutive-ones-iii](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/1004-max-consecutive-ones-iii) |
 | [1109-corporate-flight-bookings](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/1109-corporate-flight-bookings) |
 | [2574-left-and-right-sum-differences](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/2574-left-and-right-sum-differences) |
+| [3364-minimum-positive-sum-subarray](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/3364-minimum-positive-sum-subarray) |
 | [3903-smallest-stable-index-i](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/3904-smallest-stable-index-ii) |
 ## Simulation
