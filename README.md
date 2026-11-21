@@ -22,6 +22,7 @@
 | [1448-count-good-nodes-in-binary-tree](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/3841-palindromic-path-queries-in-a-tree) |
@@ -49,6 +50,7 @@
 | [1631-path-with-minimum-effort](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/1631-path-with-minimum-effort) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2360-longest-cycle-in-a-graph](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/2360-longest-cycle-in-a-graph) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
@@ -185,6 +187,7 @@
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3364-minimum-positive-sum-subarray](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/3364-minimum-positive-sum-subarray) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
@@ -233,6 +236,7 @@
 | [2747-count-zero-request-servers](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/2747-count-zero-request-servers) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Divide and Conquer
@@ -273,6 +277,7 @@
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2409-count-days-spent-together](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/2409-count-days-spent-together) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3498-reverse-degree-of-a-string](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/3498-reverse-degree-of-a-string) |
 | [3614-process-string-with-special-operations-ii](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/3614-process-string-with-special-operations-ii) |
 | [3838-weighted-word-mapping](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/3838-weighted-word-mapping) |
