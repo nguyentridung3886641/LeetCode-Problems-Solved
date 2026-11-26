@@ -107,6 +107,7 @@
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
+| [3934-smallest-unique-subarray](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/3934-smallest-unique-subarray) |
 ## Array
 |  |
 | ------- |
@@ -212,6 +213,7 @@
 | [3886-sum-of-sortable-integers](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/3886-sum-of-sortable-integers) |
 | [3903-smallest-stable-index-i](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/3904-smallest-stable-index-ii) |
+| [3934-smallest-unique-subarray](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/3934-smallest-unique-subarray) |
 ## Hash Table
 |  |
 | ------- |
@@ -239,6 +241,7 @@
 | [3331-find-subtree-sizes-after-changes](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+| [3934-smallest-unique-subarray](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/3934-smallest-unique-subarray) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -778,4 +781,16 @@
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/0901-online-stock-span) |
+## Rolling Hash
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/3934-smallest-unique-subarray) |
+## Suffix Array
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/3934-smallest-unique-subarray) |
+## Hash Function
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/nguyentridung3886641/LeetCode-Problems-Solved/tree/master/3934-smallest-unique-subarray) |
 <!---LeetCode Topics End-->
